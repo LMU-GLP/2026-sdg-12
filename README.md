@@ -24,10 +24,11 @@ this gives you evidence you can point at.
 ## Open it
 
 1. Go to **[claude.ai/code](https://claude.ai/code)** and sign in with your Claude account
-2. Click the cloud icon above the message box, hover **Default**, click the
-   gear, set **Network access** to **Full**, and save. Do this before you send
+2. Just above the message box there's a row with two buttons. Click the cloud
+   one that says **Default**, hover **Default** in the menu, click the gear,
+   set **Network access** to **Full**, and save. Do this before you send
    anything, or Claude won't be able to read any web page
-3. Click the repo selector below the message box and choose
+3. In that same row, click **+ Select repo...** and choose
    **LMU-GLP/2026-sdg-12**
 4. If it isn't in the list, you haven't accepted the GitHub invitation yet.
    Open [github.com/notifications](https://github.com/notifications), accept
