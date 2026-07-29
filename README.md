@@ -129,16 +129,7 @@ One person drives again, and everyone watches the pages connect to each other.
 Ingest everything in sources/ and update the wiki.
 ```
 
-## 6. Ask your wiki a hard question
-
-Make it a question you genuinely don't know the answer to.
-
-```
-Between our two candidate regions, where is this problem worse, and for whom?
-Cite your sources, and save the answer as a page in wiki/.
-```
-
-## 7. Read what you built
+## 6. Read what you built
 
 Merge again, then look at what's actually on `main`:
 
@@ -156,9 +147,10 @@ time. It's also where you notice if your evidence is thinner than you thought.
 If a page makes a claim with no citation behind it, treat it as a placeholder.
 Never put it in your pitch.
 
-## 8. Decide, and write it down
+## 7. Decide, and write it down
 
-Same move as step 1. Claude asks, you decide.
+This is the hard question, and it's the same move as step 1. Claude asks, you
+decide.
 
 ```
 Help me draft a problem statement from our wiki. Ask me one question at a time.
@@ -167,6 +159,9 @@ Help me draft a problem statement from our wiki. Ask me one question at a time.
 Answer out loud, as a team. The questions come from your own evidence, so this
 is where you find out which region you can actually defend and who your project
 is really for. Argue about it. That argument is the work.
+
+What you end up with is what you'll read to the room at the end of the session,
+and it's the first thing a judge will push on Monday.
 
 When you're happy with it:
 
@@ -177,7 +172,7 @@ Save it to wiki/problem-statement.md and commit.
 Then read it out loud one more time. If any team member can't defend a sentence
 in it, that sentence needs a better source. Merge it.
 
-## If you finish early
+## 8. If you finish early
 
 ```
 Find contradictions and gaps in our wiki, and tell us what we're missing.
