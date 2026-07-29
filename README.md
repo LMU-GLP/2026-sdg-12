@@ -28,15 +28,14 @@ Ask Claude to search the web and read pages for you:
 > date, the key facts and figures with short direct quotes, and a two-sentence
 > summary. Then ingest them into the wiki.
 
-Watch the list of actions Claude takes while it works. That list is where your
-citations come from.
+Watch the actions Claude takes. That list is where your citations come from.
 
 Write down the numbers that matter and quote them exactly. Don't copy whole
-articles into the repo — a judge wants the figure and the source, not the page.
+articles into the repo. A judge wants the figure and the source, not the page.
 
 ## Saving your work
 
-You do not type git commands. While you work, ask:
+You never type git commands. While you work, ask:
 
 > Commit our work with a note about what we did, and push it.
 
@@ -49,11 +48,11 @@ Your work isn't on `main` until you publish it. Two clicks, once per session:
 1. Open the diff view (the `+42 -18` indicator at the top of the session)
 2. **Create PR**, then **Merge**
 
-Think of it as: Claude drafts, your team reviews, then you publish.
+Claude drafts, your team reviews, then you publish.
 
 ## One driver at a time
 
-One person per team drives Claude in a session; everyone else watches the
-screen and decides together. Two people running separate sessions on this repo
-creates two draft branches that fight each other. Swap drivers whenever you
-like — just not at the same time.
+One person per team drives Claude in a session. Everyone else watches the same
+screen and decides together. If two people run separate sessions on this repo,
+you get two separate drafts and someone has to untangle them later. Swap
+drivers as often as you want, just not at the same time.
