@@ -51,7 +51,9 @@ with short direct quotes, and a two-sentence summary. Don't edit index.md or
 the wiki pages yet.
 ```
 
-Watch the actions Claude takes. That list is where your citations come from.
+Watch what Claude does while it works: it searches, opens a page, then writes a
+file. Those actions are where your citations come from.
+
 Write down the numbers that matter and quote them exactly. Don't copy whole
 articles into the repo. A judge wants the figure and the source, not the page.
 
