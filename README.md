@@ -21,6 +21,20 @@ repo belongs to your team.
 That's the difference that matters on Monday: a chat gives you an answer, and
 this gives you evidence you can point at.
 
+## What GitHub is
+
+GitHub is where your team's work lives. This page you're reading is on GitHub,
+in your team's **repo**, which is just a folder that belongs to your team and
+nobody else.
+
+Two things make it different from a shared drive. Every change is recorded with
+who made it and when, so your commit history is the evidence that all of you
+worked on this. And nothing is lost: you can always see what a page looked like
+before someone changed it.
+
+The tool that records those changes is called **git**. You'll see Claude run
+git commands and you'll never type one yourself.
+
 ## Open it
 
 1. Go to **[claude.ai/code](https://claude.ai/code)** and sign in with your Claude account
