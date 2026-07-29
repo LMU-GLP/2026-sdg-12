@@ -24,14 +24,6 @@ https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 But before you build anything, interview us for context. Ask one question at a
 time, give us multiple-choice options, and keep going until you know enough
 about our challenge, our candidate regions, and what we need to research.
-
-Build the structure only. Do not write any background, facts, or figures from
-your own knowledge, even marked as unsourced. Leave the pages empty until we
-add real sources.
-
-Last thing: create wiki/research-checklist.md. Make it a numbered list of
-specific research tasks we can split between the team, and for each one say
-what source to look for and which page it feeds.
 ```
 
 **Then merge it right away** (step 4 below), before anyone splits up. Your
@@ -50,10 +42,8 @@ with short direct quotes, and a two-sentence summary. Don't edit index.md or
 the wiki pages yet.
 ```
 
-Step 1 creates `wiki/research-checklist.md`, a numbered list of research tasks
-for your specific challenge. Claim a different one each. It will be longer than
-you can finish today, so aim for **one source per person**, and make sure these
-five are covered between you:
+Claim a different one each. Aim for **one source per person**, and cover these
+five between you:
 
 - UN targets for your goal: `sdgs.un.org/goals/goal12`
 - One dataset (UN Stats, World Bank, or a local source)
