@@ -124,15 +124,24 @@ Never put it in your pitch.
 
 ## 8. Decide, and write it down
 
+Same move as step 1. Claude asks, you decide.
+
 ```
-Based only on our wiki, draft a one-paragraph problem statement: who is
-affected, where, and how badly, with at least two citations from our sources.
-Then recommend which of our two regions we should focus on, and say why the
-evidence points that way. Save both to wiki/problem-statement.md.
+Help me draft a problem statement from our wiki. Ask me one question at a time.
 ```
 
-Read it out loud. If any team member can't defend a sentence in it, that
-sentence needs a better source. Merge it when you're happy.
+Answer out loud, as a team. The questions come from your own evidence, so this
+is where you find out which region you can actually defend and who your project
+is really for. Argue about it. That argument is the work.
+
+When you're happy with it:
+
+```
+Save it to wiki/problem-statement.md and commit.
+```
+
+Then read it out loud one more time. If any team member can't defend a sentence
+in it, that sentence needs a better source. Merge it.
 
 ## If you finish early
 
