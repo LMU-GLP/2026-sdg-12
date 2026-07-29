@@ -10,8 +10,9 @@ its top-right corner, so you never have to select text by hand.
 
 ## 1. Start together
 
-One person drives. The whole team answers out loud. This runs once, because it
-decides your angle and builds the structure everyone else works inside.
+One person drives. The whole team answers out loud. This runs once per team,
+because it decides your angle and builds the structure everyone else works
+inside.
 
 ```
 We're the SDG 12 (Responsible Consumption and Production) team. Our challenge:
@@ -116,10 +117,10 @@ Cite your sources, and save the answer as a page in wiki/.
 Merge again, then open your repo on GitHub and click into the `wiki/` folder.
 Read the pages as a team.
 
-This is the first time you see the whole thing rather than one answer at a
-time, and it's the moment you find out whether your evidence actually holds
-together. If a page makes a claim with no citation behind it, treat it as a
-placeholder. Never put it in your pitch.
+This is the first time you see the whole thing instead of one answer at a
+time. It's also where you notice if your evidence is thinner than you thought.
+If a page makes a claim with no citation behind it, treat it as a placeholder.
+Never put it in your pitch.
 
 ## 8. Decide, and write it down
 
