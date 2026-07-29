@@ -139,7 +139,10 @@ Cite your sources, and save the answer as a page in wiki/.
 
 ## 7. Read what you built
 
-Merge again, then open your repo on GitHub and click into the `wiki/` folder.
+Merge again, then read what's on `main`:
+
+**[github.com/LMU-GLP/2026-sdg-12/tree/main/wiki](https://github.com/LMU-GLP/2026-sdg-12/tree/main/wiki)**
+
 Read the pages as a team.
 
 This is the first time you see the whole thing instead of one answer at a
