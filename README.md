@@ -33,7 +33,8 @@ empty repo and build a second, different wiki.
 ## 2. Split up — one source each
 
 Now everyone runs their own session. **First, claim a different source from
-this list.** Cover all five between you:
+this list.** These five are the minimum — cover them between you, then add as
+many more from any category as you have time for:
 
 - UN targets for your goal: `sdgs.un.org/goals/goal12`
 - One dataset (UN Stats, World Bank, or a local source)
