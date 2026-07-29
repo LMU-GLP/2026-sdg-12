@@ -50,9 +50,26 @@ Your work isn't on `main` until you publish it. Two clicks, once per session:
 
 Claude drafts, your team reviews, then you publish.
 
-## One driver at a time
+## Working as a team
 
-One person per team drives Claude in a session. Everyone else watches the same
-screen and decides together. If two people run separate sessions on this repo,
-you get two separate drafts and someone has to untangle them later. Swap
-drivers as often as you want, just not at the same time.
+**Start together.** One person drives the interview above while the whole team
+answers. That first conversation decides your angle and builds the folder
+structure everyone else works inside, so it only happens once.
+
+**Then split up.** Each person takes a different source from the checklist and
+runs their own session. Add this line to your prompt so your files don't
+collide with a teammate's:
+
+> Add this source as a markdown file in sources/. Don't edit index.md or the
+> wiki pages yet.
+
+Each of you gets your own draft branch, which is what lets four people work at
+the same time without overwriting each other. Merge the PRs one at a time when
+you regroup. If GitHub reports a conflict, ask Claude:
+
+> Merge main into our branch and resolve the conflicts.
+
+**Finish together.** One person runs the last pass, and the whole team watches
+the pages connect to each other:
+
+> Ingest everything in sources/ and update the wiki.
