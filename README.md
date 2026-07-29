@@ -69,9 +69,11 @@ Claude saves to your own draft branch and shows you each command it ran.
 
 ## 4. Merge, so your work counts
 
-Your work isn't on `main` until you publish it. Open the diff view (the
-`+42 -18` indicator at the top of your session), select **Create PR**, then
-**Merge**.
+Your work isn't on `main` until you publish it.
+
+Look just above the message box. There's a bar with your branch name and a
+green count like `+482 -0`. Click it to see everything Claude changed, then
+select **Create PR**, then **Merge**.
 
 You'll do this twice: **once right after step 1**, so your teammates start from
 the wiki instead of an empty repo, and again after everyone's sources are in.
