@@ -8,6 +8,30 @@ world. Research two before you commit to one.
 Every prompt you need is on this page, in order. Each one has a copy button in
 its top-right corner, so you never have to select text by hand.
 
+## What Claude Code is
+
+You've used AI that chats with you. This one works on files instead.
+
+Claude Code reads and writes the files in this repo, runs commands, and shows
+you every action it takes. When it finds a source, it writes a real file. When
+you tell it to save your work, you watch the git commands go by. Nothing
+disappears when you close the tab, because it all lives in this repo, and the
+repo belongs to your team.
+
+That's the difference that matters on Monday: a chat gives you an answer, and
+this gives you evidence you can point at.
+
+## Open it
+
+1. Go to **claude.ai/code** and sign in with your Claude account
+2. Click the cloud icon above the message box, hover **Default**, click the
+   gear, set **Network access** to **Full**, and save. Do this before you send
+   anything, or Claude won't be able to read any web page
+3. Click the repo selector below the message box and choose
+   **LMU-GLP/2026-sdg-12**
+4. If it isn't in the list, you haven't accepted the GitHub invitation yet.
+   Go to github.com, check your notifications, accept, then reload
+
 ## 1. Start together
 
 One person drives. The whole team answers out loud. This runs once per team,
