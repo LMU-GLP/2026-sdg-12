@@ -24,7 +24,15 @@ https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 But before you build anything, interview us for context. Ask one question at a
 time, give us multiple-choice options, and keep going until you know enough
 about our challenge, our candidate regions, and what we need to research.
+
+Build the structure only. Do not write any background, facts, or figures from
+your own knowledge, even marked as unsourced. Leave the pages empty until we
+add real sources.
 ```
+
+**Then merge it right away** (step 4 below), before anyone splits up. Your
+teammates' sessions start from `main`, so until you merge, they'll open an
+empty repo and build a second, different wiki.
 
 ## 2. Split up — one source each
 
@@ -38,7 +46,10 @@ with short direct quotes, and a two-sentence summary. Don't edit index.md or
 the wiki pages yet.
 ```
 
-Claim one each:
+Claude builds you a list of research tasks at `wiki/research-checklist.md`.
+Claim a different one each. It will be longer than you can finish today, so
+aim for **one source per person** and make sure these five are covered between
+you:
 
 - UN targets for your goal: `sdgs.un.org/goals/goal12`
 - One dataset (UN Stats, World Bank, or a local source)
@@ -65,6 +76,9 @@ Claude saves to your own draft branch and shows you each command it ran.
 Your work isn't on `main` until you publish it. Open the diff view (the
 `+42 -18` indicator at the top of your session), select **Create PR**, then
 **Merge**.
+
+You'll do this twice: **once right after step 1**, so your teammates start from
+the wiki instead of an empty repo, and again after everyone's sources are in.
 
 If GitHub says there's a conflict, that's normal when several people work at
 once. Ask:
