@@ -30,7 +30,8 @@ this gives you evidence you can point at.
 3. Click the repo selector below the message box and choose
    **LMU-GLP/2026-sdg-12**
 4. If it isn't in the list, you haven't accepted the GitHub invitation yet.
-   Go to github.com, check your notifications, accept, then reload
+   Open [github.com/notifications](https://github.com/notifications), accept
+   the invite, then reload Claude Code
 
 ## 1. Start together
 
