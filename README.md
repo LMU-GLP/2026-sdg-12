@@ -23,7 +23,7 @@ this gives you evidence you can point at.
 
 ## Open it
 
-1. Go to **claude.ai/code** and sign in with your Claude account
+1. Go to **[claude.ai/code](https://claude.ai/code)** and sign in with your Claude account
 2. Click the cloud icon above the message box, hover **Default**, click the
    gear, set **Network access** to **Full**, and save. Do this before you send
    anything, or Claude won't be able to read any web page
