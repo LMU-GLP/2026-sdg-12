@@ -11,8 +11,10 @@ This repo is nearly empty on purpose. Paste this into Claude Code. It will
 interview you first, then build the wiki around your answers:
 
 ```
-We're the SDG 12 (Responsible Consumption and Production) team. Our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
-We can focus on Los Angeles, South Korea, or any other part of the world.
+We're the SDG 12 (Responsible Consumption and Production) team. Our challenge:
+"How might we help a household reduce waste and make smarter choices about
+what members buy, use, and throw away?" We can focus on Los Angeles, South
+Korea, or any other part of the world.
 
 Read this gist and set up this repo as an LLM wiki for that challenge:
 https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
