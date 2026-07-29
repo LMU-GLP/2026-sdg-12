@@ -32,8 +32,17 @@ empty repo and build a second, different wiki.
 
 ## 2. Split up — one source each
 
-Now everyone runs their own session. Claim a different source from the list,
-and swap `[your source]` and `[your region]` for what you picked.
+Now everyone runs their own session. **First, claim a different source from
+this list.** Cover all five between you:
+
+- UN targets for your goal: `sdgs.un.org/goals/goal12`
+- One dataset (UN Stats, World Bank, or a local source)
+- A news story about the problem in your first region
+- A news story about the problem in your second region
+- One product or program already trying to solve this
+
+**Then run this prompt**, swapping `[your source]` and `[your region]` for the
+one you claimed:
 
 ```
 Find a source on [your source] in [your region]. Create a markdown file in
@@ -41,15 +50,6 @@ sources/ with the page title, the URL, today's date, the key facts and figures
 with short direct quotes, and a two-sentence summary. Don't edit index.md or
 the wiki pages yet.
 ```
-
-Claim a different one each. Aim for **one source per person**, and cover these
-five between you:
-
-- UN targets for your goal: `sdgs.un.org/goals/goal12`
-- One dataset (UN Stats, World Bank, or a local source)
-- A news story about the problem in your first region
-- A news story about the problem in your second region
-- One product or program already trying to solve this
 
 Watch the actions Claude takes. That list is where your citations come from.
 Write down the numbers that matter and quote them exactly. Don't copy whole
