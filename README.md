@@ -105,7 +105,13 @@ Claude saves to your own draft branch and shows you each command it ran.
 
 ## 4. Merge, so your work counts
 
-Your work isn't on `main` until you publish it.
+Claude has been saving to a **draft branch**: your own private copy of the
+team's work. Nobody else can see it, and none of it counts yet.
+
+To publish it you open a **pull request**, usually shortened to **PR**. That's
+GitHub's word for a proposal. It says: here are my changes, should we add them
+to the team's real work? Somebody looks at it, then merges it. At a company a
+teammate reviews it first. Today your team is the reviewer.
 
 Two clicks, in two different places.
 
@@ -113,9 +119,15 @@ Two clicks, in two different places.
 name and a green count like `+482 -0`. Click it to see everything Claude
 changed, then select **Create PR**.
 
-**Then on GitHub:** click the PR link Claude gives you, and press **Merge pull
-request**, then **Confirm merge**. There's no merge button inside Claude Code.
-Creating the PR only proposes the change. Merging is what puts it on `main`.
+**Then on GitHub:** Claude gives you a link to the PR. Open it and press **Merge
+pull request**, then **Confirm merge**.
+
+Lost the link? Go to
+[your repo](https://github.com/LMU-GLP/2026-sdg-12) and click the **Pull
+requests** tab at the top. Yours will be in the list.
+
+There is no merge button inside Claude Code. Creating the PR only proposes the
+change. Merging is what puts it on `main`.
 
 You'll do this twice: once right after step 1, so your teammates start from the
 wiki instead of an empty repo, and again once everyone's sources are in.
