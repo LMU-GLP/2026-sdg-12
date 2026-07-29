@@ -107,9 +107,15 @@ Claude saves to your own draft branch and shows you each command it ran.
 
 Your work isn't on `main` until you publish it.
 
-Look just above the message box. There's a bar with your branch name and a
-green count like `+482 -0`. Click it to see everything Claude changed, then
-select **Create PR**, then **Merge**.
+Two clicks, in two different places.
+
+**In Claude Code:** look just above the message box for the bar with your branch
+name and a green count like `+482 -0`. Click it to see everything Claude
+changed, then select **Create PR**.
+
+**Then on GitHub:** click the PR link Claude gives you, and press **Merge pull
+request**, then **Confirm merge**. There's no merge button inside Claude Code.
+Creating the PR only proposes the change. Merging is what puts it on `main`.
 
 You'll do this twice: once right after step 1, so your teammates start from the
 wiki instead of an empty repo, and again once everyone's sources are in.
