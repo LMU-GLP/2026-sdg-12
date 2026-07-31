@@ -122,6 +122,24 @@ change. Merging is what puts it on `main`.
 Don't skip this. Until you merge, the wiki exists only on the driver's private
 branch, and the next step asks everyone else to read it.
 
+**You can add more sources later, any time today.** If you spot a gap, or a
+judge-proof number you wish you had, just ask for it:
+
+```
+Find a source on [what you want] and save it to sources/ in the same format as
+the ones already there.
+```
+
+A new file in `sources/` changes nothing on its own, though. The wiki is what
+your page and your pitch get built from, so every time you add a source, follow
+it with:
+
+```
+Ingest everything in sources/ and update the wiki.
+```
+
+Then commit and merge again.
+
 ## 2. Read what you built (5 min)
 
 **Stop typing.** Everyone opens the wiki on their own laptop and reads it:
