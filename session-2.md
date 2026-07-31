@@ -347,6 +347,10 @@ there in the repo.
 
 ## 10. Write the pitch, then say it out loud (5 min)
 
+No interview this time. You already did that twice today, and the pitch is just
+those two decisions said out loud in ninety seconds. Reading it to each other is
+the check.
+
 Write it first:
 
 ```
