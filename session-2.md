@@ -86,18 +86,28 @@ When you're done, tell us what you found and what surprised you.
 Watch it work. It searches, opens pages, then writes files. Those actions are
 where your citations come from.
 
-Then save it:
+Then save it, and publish it so the rest of the team can actually see it:
 
 ```
 Commit our work with a note about what we did, and push it.
 ```
 
+Now **Create PR** in Claude Code, then **Merge pull request** on GitHub. Both
+steps are spelled out at the bottom of this page.
+
+Don't skip the merge. Until you merge, the wiki exists only on the driver's
+private branch, and the next step asks everyone else to read it.
+
 ## 2. Read what you built (5 min)
 
-**Stop typing.** Everyone reads, on GitHub or over the driver's shoulder. This
-is the step teams skip, and it's the one that decides whether Monday goes well.
+**Stop typing.** Everyone opens the wiki on their own laptop and reads it:
 
-Four questions, out loud:
+**[github.com/LMU-GLP/2026-sdg-12/tree/main/wiki](https://github.com/LMU-GLP/2026-sdg-12/tree/main/wiki)**
+
+Empty, or a 404? You haven't merged. Go back and merge, then reload.
+
+This is the step teams skip, and it's the one that decides whether Monday goes
+well. Four questions, out loud:
 
 - Which region has more evidence behind it, LA or South Korea?
 - Which number is the most surprising?
