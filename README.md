@@ -20,8 +20,8 @@ in its top-right corner.
 
 - `CLAUDE.md` — the rules Claude follows in this repo
 - `sources/` — two sources we found for you. Read both before you pick a region:
-- [Los Angeles](sources/la-sb1383-organic-waste.md)
-- [South Korea](sources/korea-food-waste-system.md)
+  - [Los Angeles](sources/la-sb1383-organic-waste.md)
+  - [South Korea](sources/korea-food-waste-system.md)
 - UN targets for your goal: [sdgs.un.org/goals/goal12](https://sdgs.un.org/goals/goal12)
 
 ## What Claude Code is
