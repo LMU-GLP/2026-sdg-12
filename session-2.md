@@ -28,7 +28,7 @@ Then, always, before anything else:
 Pull the latest from main so I have everything the team has merged.
 ```
 
-## 1. Source sprint (20 min)
+## 1. Source sprint (15 min)
 
 Your repo has two sources. **Your team adds at least three more today**, and
 everyone writes one.
@@ -57,9 +57,22 @@ yet.
 
 Save it, open a PR, merge it. The steps are at the bottom of this page.
 
-While that's happening, everyone not writing a source starts step 2.
+## 2. Ingest what you found (5 min)
 
-## 2. Lock the concept (10 min)
+One person drives. Everything merges first, then:
+
+```
+Ingest everything in sources/ and update the wiki.
+```
+
+Merge that too.
+
+Do this **before** the interview, not after. The next step asks Claude to
+design against your evidence, and until you ingest, your wiki still only knows
+about the two sources you were given. You'd be deciding without the three you
+just went and found.
+
+## 3. Lock the concept (10 min)
 
 Everyone in the room, out loud. Claude asks, you decide. This is the same
 interview you ran on Wednesday, pointed at a solution instead of a question.
@@ -82,13 +95,7 @@ When we're done, write the design to wiki/concept.md and commit it.
 Talk, don't type. Use your laptop's dictation. Spoken answers are longer and
 better than anything you'd type in 30 seconds, and the whole team hears the ask.
 
-Then bring the new sources in:
-
-```
-Ingest everything in sources/ and update the wiki.
-```
-
-## 3. Plan, then cut it (5 min)
+## 4. Plan, then cut it (5 min)
 
 ```
 Write a short plan for building a page that shows our concept to someone who
@@ -99,7 +106,7 @@ finish in 25 minutes.
 Read the plan out loud and cut anything you can't finish. Scoping is the lesson
 here. A small thing that works beats a big thing that doesn't.
 
-## 4. Build what you'll show (25 min)
+## 5. Build what you'll show (25 min)
 
 Your concept might be a business, a program, a service, a product, or something
 else. What you build today is the page that makes it real to a judge who has
@@ -123,7 +130,7 @@ Use real figures from our sources and put the citation next to each number on
 the page. No invented statistics.
 ```
 
-## 5. Verify (5 min)
+## 6. Verify (5 min)
 
 Never let Claude tell you it's done. Make it show you.
 
@@ -135,7 +142,7 @@ uncited. Don't tell me it should work.
 
 Fix whatever it finds. Then merge.
 
-## 6. Deploy (10 min)
+## 7. Deploy (7 min)
 
 Merge to `main` and your page goes live here:
 
@@ -144,7 +151,7 @@ Merge to `main` and your page goes live here:
 Give it a minute. Open it on your phone. If a judge can't open it Monday, it
 doesn't count.
 
-## 7. Say it out loud (10 min)
+## 8. Say it out loud (8 min)
 
 Ninety seconds, timed, to another team. They ask you one question afterward.
 
