@@ -12,7 +12,7 @@ figures, and a problem statement your team can defend out loud.
 2. **Check the network setting first.** Above the message box there's a cloud
    button. It should already say **Full network access**. If it says anything
    else, click it and change it. Claude cannot read a single web page without
-   this, and it fails quietly — searches come back, then nothing loads
+   this, and it fails quietly: searches come back, then nothing loads
 3. Click **+ Select repo...**
 4. In the dropdown that opens, click **Connect to GitHub**
 5. GitHub asks whether Claude can access your account. Press the green
