@@ -11,7 +11,7 @@ compare before you commit.
 | | |
 |---|---|
 | **[Session 1: build the research wiki](session-1.md)** | Wednesday. Sources, citations, and a problem statement you can defend. |
-| **[Session 2: build the prototype](session-2.md)** | Friday. Three more sources, then a working prototype and a 90-second pitch. |
+| **[Session 2: build the prototype](session-2.md)** | Friday. One driver. A wiki, a problem statement, then a prototype and a pitch. |
 
 Every prompt you need is on those two pages, in order, each with a copy button
 in its top-right corner.
@@ -52,9 +52,11 @@ commands and you'll never type one yourself.
 
 ## How the team works
 
-Start together, split up, then finish together. The decisions happen with
-everyone in the room. The searching and the building happen in parallel, each of
-you on your own draft branch, which is what lets four people work at the same
-time without overwriting each other.
+On Friday, **one person drives.** One laptop, one session. That sounds like it
+sidelines everybody else, and it's the opposite: typing is the easy part, and
+the decisions are what a judge actually grades. Everyone answers the interviews
+out loud, everyone argues about the region, and somebody reads the repo on
+GitHub while the driver keeps working.
 
-Merge the PRs one at a time when you regroup.
+Claude saves to a draft branch, and a **pull request** is how that draft becomes
+the team's real work. Nothing counts until it's merged to `main`.
