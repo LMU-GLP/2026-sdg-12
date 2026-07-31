@@ -381,13 +381,19 @@ time before Monday.
 one. Add a page, add a chart, make it work properly on a phone. If your solution
 needed something you ran out of time for, ask for it now.
 
-**Use it for the presentation too.** Claude can write your deck from the same
+**Use it for the presentation too.** Claude can build your deck from the same
 wiki your page came from, which is what keeps the slides, the pitch and the demo
-saying the same thing:
+saying the same thing. Make it interview you first, the same as everything else
+today:
 
 ```
-Draft our 10-minute presentation from wiki/. One slide per section, and put the
-citation for every number on the slide where that number appears.
+We need to build our 10-minute presentation. Before you draft anything,
+interview us. Ask one question at a time with multiple-choice options, and keep
+going until you know what each section has to do, which piece of our evidence
+we want to lead with, what we're cutting, and who is presenting which part.
+
+Then draft it from wiki/, with the citation for every number on the slide where
+that number appears.
 ```
 
 **Give it the actual assignment.** Put the project brief and the judging rubric
@@ -400,6 +406,13 @@ missing and what a judge would push on.
 ```
 
 That last one is worth running Sunday night, once the deck exists.
+
+**The habit worth keeping.** Every time you ask Claude for something that
+matters, make it interview you first. You did that today for the problem
+statement and for the solution, and it's the whole difference between ending up
+with your idea and ending up with Claude's. A deck you answered questions to
+build is one you can defend in Q&A. A deck it guessed at is one you'll be
+reading off the screen.
 
 
 ## Saving and merging, any time
