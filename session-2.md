@@ -5,8 +5,20 @@ their phone.
 
 [Back to the front page](README.md) · [Session 1](session-1.md)
 
-By 12:15 your team has a problem statement you can defend, something a judge
-can open at a public URL, and a pitch you've said out loud once.
+By 12:15 your team has a problem statement you can defend, something live at a
+public URL, and a pitch you've said out loud once.
+
+## How today works
+
+**One person drives.** One laptop sends the prompts. That's not a demotion for
+everyone else, because the driver is the slowest part of this team and the
+decisions are what matter:
+
+- **Driver** — types, and reads what Claude did back to the team
+- **Everyone** — answers the interviews out loud, argues, decides
+- **One reader** — opens the repo on GitHub on their own laptop and reads what
+  actually landed, while the driver keeps working
+- **One timekeeper** — the clock below is real
 
 ## Open it
 
@@ -22,101 +34,139 @@ can open at a public URL, and a pitch you've said out loud once.
    [github.com/notifications](https://github.com/notifications), accept it, reload
 
 
-Then, always, before anything else:
+Only the driver needs to do this. Everyone else can read the repo straight from
+[github.com/LMU-GLP/2026-sdg-12](https://github.com/LMU-GLP/2026-sdg-12).
+
+## Your clock
+
+| | |
+|---|---|
+| 10:55 | Build the wiki |
+| 11:05 | **Read it** |
+| 11:10 | Write the problem statement |
+| 11:20 | **Read it out loud** |
+| 11:25 | Design the solution |
+| 11:35 | Plan, build, verify |
+| 12:05 | Deploy |
+| 12:10 | Show it |
+
+## 1. Build the wiki, in one shot (10 min)
+
+Two sources are already in `sources/` — one on Los Angeles, one on South Korea.
+This prompt reads them, finds three more, and builds the wiki from all five.
 
 ```
-Pull the latest from main so I have everything the team has merged.
+Set up this repo as a research wiki for our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
+
+Start from the two sources already in sources/ and read them both. Then find
+three more yourself: the UN targets for our goal at
+https://sdgs.un.org/goals/goal12, one dataset with real figures, and one
+program or business already working on this problem. Save each new one as its
+own file in sources/, in the same format as the two that are there: page title,
+URL, today's date, key figures with short direct quotes, and a two-sentence
+summary.
+
+Then build the wiki in wiki/ from all five sources. Every claim has to cite the
+source file it came from. Include one page comparing Los Angeles and South
+Korea, because we haven't picked a region yet.
+
+When you're done, tell us what you found and what surprised you.
 ```
 
-## 1. Source sprint (15 min)
+Watch it work. It searches, opens pages, then writes files. Those actions are
+where your citations come from.
 
-Your repo has two sources. **Your team adds at least three more today**, and
-everyone writes one.
-
-This is also where you learn the part Wednesday didn't get to: writing a file,
-opening a PR, and merging it. You'll do it again when you build, so get it
-wrong here where it's cheap.
-
-**Claim a different source from this list.** The first one is the easiest, so
-whoever goes first should take it:
-
-- UN targets for your goal: `sdgs.un.org/goals/goal12`
-- One dataset (UN Stats, World Bank, or a local source)
-- A news story about the problem in your chosen region
-- One product or program already trying to solve this
-- Anything your two seeded sources told you was missing
-
-Swap `[your source]` and `[your region]` for the one you claimed:
+Then save it:
 
 ```
-Find a source on [your source] in [your region]. Create a markdown file in
-sources/ with the page title, the URL, today's date, the key facts and figures
-with short direct quotes, and a two-sentence summary. Don't edit the wiki pages
-yet.
+Commit our work with a note about what we did, and push it.
 ```
 
-Save it, open a PR, merge it. The steps are at the bottom of this page.
+## 2. Read what you built (5 min)
 
-## 2. Ingest what you found (5 min)
+**Stop typing.** Everyone reads, on GitHub or over the driver's shoulder. This
+is the step teams skip, and it's the one that decides whether Monday goes well.
 
-One person drives. Everything merges first, then:
+Four questions, out loud:
 
-```
-Ingest everything in sources/ and update the wiki.
-```
+- Which region has more evidence behind it, LA or South Korea?
+- Which number is the most surprising?
+- Which claim has no citation under it? That's a placeholder, not evidence
+- What does the wiki say that you didn't already believe?
 
-Merge that too.
+If everything in the wiki is something you already assumed, Claude told you what
+you wanted to hear and you should push back on it.
 
-Do this **before** the interview, not after. The next step asks Claude to
-design against your evidence, and until you ingest, your wiki still only knows
-about the two sources you were given. You'd be deciding without the three you
-just went and found.
+## 3. Write the problem statement (10 min)
 
-## 3. Lock the problem, then the concept (10 min)
-
-Everyone in the room, out loud. Claude asks, you decide.
-
-**Two things, in this order.** Wednesday was supposed to end with a problem
-statement and most teams never got there, so it happens now. It has to come
-first, because you can't choose a solution before you've chosen the problem.
-Five minutes on each.
+Everyone answers, out loud. Claude asks, you decide.
 
 ```
-Two things, in order, and interview us for both. Ask one question at a time,
-give us multiple-choice options, and use everything in sources/ and wiki/ as
-background. Tell us when our answers contradict our own evidence.
+Interview us until we have a problem statement we can defend. Ask one question
+at a time and give us multiple-choice options.
 
-FIRST, our problem statement. Which region can we actually defend, who
-specifically is affected, and what do our sources say about them?
+We need to end up with: the region we're committing to, who specifically is
+affected, how many of them, and what our sources actually say about them. Use
+everything in sources/ and wiki/, and tell us when our answers contradict our
+own evidence.
 
-THEN, our solution to it. It could be a business, a program, a service, a
-product, a campaign, or something we haven't thought of yet. Don't assume
-which one. Keep asking until you know who it's for, what it actually does,
-how it would work in the real world, and what we're deliberately leaving out.
-
-Save the problem statement to wiki/problem-statement.md and the solution to
-wiki/concept.md, then commit both.
+Don't write it until we've answered. Then save it to
+wiki/problem-statement.md, with a citation on every figure, and commit.
 ```
 
-Argue about the first half. That argument is the work, and the problem
-statement is the first thing a judge will push on Monday. If anyone on your
-team can't defend a sentence in it, that sentence needs a better source.
+Argue about this. The region is a real choice and you have evidence for both.
+
+## 4. Read the problem statement out loud (5 min)
+
+**Stop typing again.** One person reads it aloud, slowly, to the team.
+
+Then, honestly: **can every single one of you defend every sentence?** If
+anyone hesitates on a sentence, that sentence needs a better source or it needs
+to go.
+
+```
+Here's what we're unsure about: [say what]. Find a source that settles it, or
+tell us the claim isn't supported and cut it.
+```
+
+This is the paragraph a judge attacks first on Monday. Five minutes now is
+cheaper than freezing in front of them.
+
+## 5. Design the solution (10 min)
+
+Now, and only now, the solution. You couldn't have done this first — you didn't
+know whose problem you were solving.
+
+```
+Now interview us about our solution to that problem statement.
+
+It could be a business, a program, a service, a product, a campaign, or
+something we haven't thought of yet. Don't assume which one.
+
+Ask one question at a time with multiple-choice options, and keep going until
+you know who it's for, what it actually does, how it would work in the real
+world, and what we're deliberately leaving out. Push back when our idea doesn't
+match the problem statement we just wrote.
+
+Then save it to wiki/concept.md and commit.
+```
 
 Talk, don't type. Use your laptop's dictation. Spoken answers are longer and
-better than anything you'd type in 30 seconds, and the whole team hears the ask.
+better than anything the driver would type in 30 seconds, and the whole team
+hears the ask.
 
-## 4. Plan, then cut it (5 min)
+## 6. Plan, then cut it (5 min)
 
 ```
 Write a short plan for building a page that shows our concept to someone who
-has never heard of it. List the steps in order. Keep it to what four people can
-finish in 25 minutes.
+has never heard of it. List the steps in order. Keep it to what we can finish
+in 25 minutes.
 ```
 
 Read the plan out loud and cut anything you can't finish. Scoping is the lesson
 here. A small thing that works beats a big thing that doesn't.
 
-## 5. Build it (25 min)
+## 7. Build it (25 min)
 
 Now make your solution come to life. Tell Claude what you decided and let it
 build.
@@ -141,10 +191,10 @@ the page. No invented statistics.
 ```
 
 Then keep going. If the first version is dull, say so and ask for better. Ask
-for a chart. Ask it to make the page work on a phone. You have 25 minutes and
-Claude is fast, so the limit is what you ask for, not what it can do.
+for a chart. Ask it to work on a phone. You have 25 minutes and Claude is fast,
+so the limit is what you ask for, not what it can do.
 
-## 6. Verify (5 min)
+## 8. Verify (5 min)
 
 Never let Claude tell you it's done. Make it show you.
 
@@ -154,27 +204,26 @@ it against the file in sources/ it came from. Tell me what's broken or
 uncited. Don't tell me it should work.
 ```
 
-Fix whatever it finds. Then merge.
+Fix whatever it finds.
 
-## 7. Deploy (7 min)
+## 9. Deploy (5 min)
 
-Merge to `main` and your page goes live here:
+Save, then merge to `main`, and your page goes live here:
 
 **https://lmu-glp.github.io/2026-sdg-12/**
 
 Give it a minute. Open it on your phone. If a judge can't open it Monday, it
 doesn't count.
 
-## 8. Say it out loud (8 min)
+## 10. Say it out loud (5 min)
 
 Ninety seconds, timed, to another team. They ask you one question afterward.
 
 ```
 Write a 90-second pitch script from our problem statement and our concept.
 Plain spoken language, not a summary. Open with the problem and the number
-that proves it,
-name who it's for, say what our solution actually is, point at what we built,
-and end with what we want. Save it to wiki/pitch.md and commit.
+that proves it, name who it's for, say what our solution actually is, point at
+what we built, and end with what we want. Save it to wiki/pitch.md and commit.
 ```
 
 You'll polish delivery Saturday at the pitch workshop. Today just proves the
@@ -226,8 +275,9 @@ Merge main into our branch and resolve the conflicts.
 ## Before you leave
 
 - Your page is **live** at the URL above and opens on a phone
-- `wiki/problem-statement.md`, `wiki/concept.md` and `wiki/pitch.md` are merged to `main`
+- `wiki/problem-statement.md`, `wiki/concept.md` and `wiki/pitch.md` are merged
+  to `main`
 - Every number on the page traces to a file in `sources/`
-- At least five sources in `sources/`, three of them yours
-- A punch list with a name on each task, for Saturday 9:00–10:30 AM, Sunday
-  5:15–10:00 PM, and Monday 9:00–10:00 AM
+- Five sources, all cited in the wiki
+- A punch list with a name on each task, for Saturday 9:00-10:30 AM, Sunday
+  5:15-10:00 PM, and Monday 9:00-10:00 AM
