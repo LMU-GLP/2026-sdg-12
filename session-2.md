@@ -5,8 +5,8 @@ their phone.
 
 [Back to the front page](README.md) · [Session 1](session-1.md)
 
-By 12:15 your team has a working web app at a public URL, built from your own
-sources, and you've said your pitch out loud once.
+By 12:15 your team has something a judge can open at a public URL, built from
+your own sources, and you've said your pitch out loud once.
 
 ## Open it
 
@@ -34,8 +34,8 @@ Your repo has two sources. **Your team adds at least three more today**, and
 everyone writes one.
 
 This is also where you learn the part Wednesday didn't get to: writing a file,
-opening a PR, and merging it. You'll do it again for the app, so get it wrong
-here where it's cheap.
+opening a PR, and merging it. You'll do it again when you build, so get it
+wrong here where it's cheap.
 
 **Claim a different source from this list.** The first one is the easiest, so
 whoever goes first should take it:
