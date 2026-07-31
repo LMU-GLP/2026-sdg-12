@@ -107,21 +107,27 @@ Commit our work with a note about what we did, and push it.
 Now publish it. Claude saved to a **draft branch**, the driver's own private
 copy. Nobody else can see it and none of it counts yet.
 
-**In Claude Code:** just above the message box there's a bar with your branch
-name and a green count like `+482 -0`. Click it to see everything Claude
-changed, then select **Create PR**.
-
 A **pull request**, or PR, is GitHub's word for a proposal: here are my changes,
 should we add them to the team's real work? At a company a teammate reviews it
 first. Today your team is the reviewer.
 
-**Then on GitHub:** Claude gives you a link to the PR. Open it, press **Merge
-pull request**, then **Confirm merge**. Lost the link? Go to
-[your repo](https://github.com/LMU-GLP/2026-sdg-12) and click the
-**Pull requests** tab.
+Ask Claude to open one:
 
-There is no merge button inside Claude Code. Creating the PR only proposes the
-change. Merging is what puts it on `main`.
+```
+Create a pull request for our work and give me the link.
+```
+
+Open the link it gives you, press **Merge pull request**, then **Confirm
+merge**.
+
+**Didn't get a link?** Go to
+[your repo](https://github.com/LMU-GLP/2026-sdg-12) and click the
+**Pull requests** tab. There'll be a yellow banner naming your branch with a
+green **Compare & pull request** button. Press that, then **Create pull
+request**, then **Merge pull request**.
+
+Claude can open the pull request. It cannot merge it — merging is always your
+click, and it's what puts the work on `main`.
 
 Don't skip this. Until you merge, the wiki exists only on the driver's private
 branch, and the next step asks everyone else to read it.
@@ -298,9 +304,14 @@ First save it:
 Commit our work with a note about what we did, and push it.
 ```
 
-Then **Create PR** in Claude Code and **Merge pull request** on GitHub, the
-same two clicks as step 1. Merging is what publishes the page — nothing goes
-live from a draft branch.
+Then publish it, the same way as step 1:
+
+```
+Create a pull request for our work and give me the link.
+```
+
+Open the link, press **Merge pull request**, then **Confirm merge**. Merging is
+what publishes the page. Nothing goes live from a draft branch.
 
 Your page is here:
 
@@ -345,15 +356,19 @@ You never type git commands. To save:
 Commit our work with a note about what we did, and push it.
 ```
 
-To publish, two clicks in two different places:
+To publish, ask Claude to open the pull request:
 
-- **In Claude Code:** the bar above the message box showing your branch name and
-  a green count like `+482 -0` → **Create PR**
-- **Then on GitHub:** open the PR link Claude gives you → **Merge pull request**
-  → **Confirm merge**
+```
+Create a pull request for our work and give me the link.
+```
 
-There is no merge button inside Claude Code. Lost the link? Go to
-[your repo](https://github.com/LMU-GLP/2026-sdg-12) → **Pull requests** tab.
+Open that link, press **Merge pull request**, then **Confirm merge**.
+
+No link? Go to [your repo](https://github.com/LMU-GLP/2026-sdg-12) → the
+**Pull requests** tab → the green **Compare & pull request** button on the
+yellow banner.
+
+Claude can open a pull request. Only you can merge it.
 
 
 ## Before you leave
