@@ -11,7 +11,7 @@ compare before you commit.
 | | |
 |---|---|
 | **[Session 1: build the research wiki](session-1.md)** | Wednesday. Sources, citations, and a problem statement you can defend. |
-| **[Session 2: build the prototype](session-2.md)** | Friday. Three more sources, then a working web app and a 90-second pitch. |
+| **[Session 2: build the prototype](session-2.md)** | Friday. Three more sources, then a working prototype and a 90-second pitch. |
 
 Every prompt you need is on those two pages, in order, each with a copy button
 in its top-right corner.
