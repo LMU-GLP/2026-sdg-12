@@ -10,9 +10,9 @@ public URL, and a pitch you've said out loud once.
 
 ## How today works
 
-**One person drives.** One laptop sends the prompts. That's not a demotion for
-everyone else, because the driver is the slowest part of this team and the
-decisions are what matter:
+**One person drives.** One laptop sends the prompts. The driver is the slowest
+part of this team, and the decisions are what matter, so those belong to
+everybody:
 
 - **Driver** — types, and reads what Claude did back to the team
 - **Everyone** — answers the interviews out loud, argues, decides
@@ -27,7 +27,7 @@ decisions are what matter:
 2. **Check the network setting first.** Above the message box there's a cloud
    button. It should already say **Full network access**. If it says anything
    else, click it and change it. Claude cannot read a single web page without
-   this, and it fails quietly — searches come back, then nothing loads
+   this, and it fails quietly: searches come back, then nothing loads
 3. Click **+ Select repo...**
 4. In the dropdown that opens, click **Connect to GitHub**
 5. GitHub asks whether Claude can access your account. Press the green
@@ -67,7 +67,9 @@ you send anything** — they're the only evidence you have right now:
 This prompt reads them, finds three more, and builds the wiki from all five.
 
 ```
-Set up this repo as an LLM wiki for our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
+Set up this repo as an LLM wiki for our challenge:
+"How might we help a household reduce waste and make smarter choices
+about what members buy, use, and throw away?"
 
 Read this gist first. It's the pattern we're using, and it explains how the
 whole thing should be structured:
@@ -98,7 +100,7 @@ Then save it, and publish it so the rest of the team can actually see it:
 Commit our work with a note about what we did, and push it.
 ```
 
-Now publish it. Claude saved to a **draft branch** — the driver's own private
+Now publish it. Claude saved to a **draft branch**, the driver's own private
 copy. Nobody else can see it and none of it counts yet.
 
 **In Claude Code:** just above the message box there's a bar with your branch
