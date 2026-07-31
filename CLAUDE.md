@@ -28,7 +28,22 @@ This repo is a research wiki. It has three layers, and the order matters.
 
 **How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?**
 
-Region is open: Los Angeles, South Korea, or anywhere else. Two of the sources
-here cover LA and South Korea so the team can compare before choosing.
+**Angle: fast fashion.** Framed as connected, not two separate stories —
+households elsewhere buy fast fashion, it's manufactured and/or dumped in
+Southeast Asia, and the pollution and waste land on households there. Cover
+all three of: textile waste & disposal, manufacturing pollution, and the
+secondhand/import clothing trade.
+
+**Region: Southeast Asia, not yet narrowed.** Comparing three candidates
+before committing to one:
+- Indonesia (Citarum River area) — textile dyeing pollution, secondhand
+  clothing imports despite a ban
+- Cambodia (Phnom Penh) — garment manufacturing hub
+- Vietnam (Ho Chi Minh City) — garment manufacturing plus fast-growing
+  domestic fast-fashion consumption
+
+**The two sources already in `sources/` (LA and South Korea, food waste) are
+from before this pivot.** Leave them in place, but they are not part of this
+challenge's angle — don't build wiki pages from them.
 
 UN targets for this goal: https://sdgs.un.org/goals/goal12
