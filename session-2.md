@@ -92,11 +92,27 @@ Then save it, and publish it so the rest of the team can actually see it:
 Commit our work with a note about what we did, and push it.
 ```
 
-Now **Create PR** in Claude Code, then **Merge pull request** on GitHub. Both
-steps are spelled out at the bottom of this page.
+Now publish it. Claude saved to a **draft branch** — the driver's own private
+copy. Nobody else can see it and none of it counts yet.
 
-Don't skip the merge. Until you merge, the wiki exists only on the driver's
-private branch, and the next step asks everyone else to read it.
+**In Claude Code:** just above the message box there's a bar with your branch
+name and a green count like `+482 -0`. Click it to see everything Claude
+changed, then select **Create PR**.
+
+A **pull request**, or PR, is GitHub's word for a proposal: here are my changes,
+should we add them to the team's real work? At a company a teammate reviews it
+first. Today your team is the reviewer.
+
+**Then on GitHub:** Claude gives you a link to the PR. Open it, press **Merge
+pull request**, then **Confirm merge**. Lost the link? Go to
+[your repo](https://github.com/LMU-GLP/2026-sdg-12) and click the
+**Pull requests** tab.
+
+There is no merge button inside Claude Code. Creating the PR only proposes the
+change. Merging is what puts it on `main`.
+
+Don't skip this. Until you merge, the wiki exists only on the driver's private
+branch, and the next step asks everyone else to read it.
 
 ## 2. Read what you built (5 min)
 
@@ -249,47 +265,23 @@ what we built, and end with what we want. Save it to wiki/pitch.md and commit.
 You'll polish delivery Saturday at the pitch workshop. Today just proves the
 script exists and fits in 90 seconds.
 
-## Save your work
+## Saving and merging, any time
 
-You never type git commands. Ask:
+You never type git commands. To save:
 
 ```
 Commit our work with a note about what we did, and push it.
 ```
 
-Claude saves to your own draft branch and shows you each command it ran.
+To publish, two clicks in two different places:
 
-## Merge, so your work counts
+- **In Claude Code:** the bar above the message box showing your branch name and
+  a green count like `+482 -0` → **Create PR**
+- **Then on GitHub:** open the PR link Claude gives you → **Merge pull request**
+  → **Confirm merge**
 
-Claude has been saving to a **draft branch**: your own private copy of the team's
-work. Nobody else can see it, and none of it counts yet.
-
-To publish it you open a **pull request**, usually shortened to **PR**. That's
-GitHub's word for a proposal. It says: here are my changes, should we add them to
-the team's real work? Somebody looks at it, then merges it. At a company a
-teammate reviews it first. Today your team is the reviewer.
-
-Two clicks, in two different places.
-
-**In Claude Code:** look just above the message box for the bar with your branch
-name and a green count like `+482 -0`. Click it to see everything Claude changed,
-then select **Create PR**.
-
-**Then on GitHub:** Claude gives you a link to the PR. Open it and press **Merge
-pull request**, then **Confirm merge**.
-
-Lost the link? Go to [your repo](https://github.com/LMU-GLP/2026-sdg-12) and
-click the **Pull requests** tab. Yours will be in the list.
-
-There is no merge button inside Claude Code. Creating the PR only proposes the
-change. Merging is what puts it on `main`.
-
-If GitHub says there's a conflict, that's normal when several people work at once.
-Ask:
-
-```
-Merge main into our branch and resolve the conflicts.
-```
+There is no merge button inside Claude Code. Lost the link? Go to
+[your repo](https://github.com/LMU-GLP/2026-sdg-12) → **Pull requests** tab.
 
 
 ## Before you leave
