@@ -52,7 +52,12 @@ Only the driver needs to do this. Everyone else can read the repo straight from
 
 ## 1. Build the wiki, in one shot (10 min)
 
-Two sources are already in `sources/` — one on Los Angeles, one on South Korea.
+Two sources are already in `sources/`, one on each region. **Read them before
+you send anything** — they're the only evidence you have right now:
+
+- [Los Angeles](sources/la-sb1383-organic-waste.md)
+- [South Korea](sources/korea-food-waste-system.md)
+
 This prompt reads them, finds three more, and builds the wiki from all five.
 
 ```
