@@ -24,9 +24,6 @@ figures, and a problem statement your team can defend out loud.
 **[github.com/LMU-GLP/2026-sdg-12/invitations](https://github.com/LMU-GLP/2026-sdg-12/invitations)**
 and press **Accept invitation**. Then reload Claude Code and go back to step 3.
 
-That invitations link is the one that works. The notifications page often
-doesn't show repo invites at all, so go straight to the link above.
-
 
 ## 1. Start together
 
