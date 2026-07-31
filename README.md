@@ -53,11 +53,10 @@ commands and you'll never type one yourself.
 
 ## How the team works
 
-On Friday, **one person drives.** One laptop, one session. That sounds like it
-sidelines everybody else, and it's the opposite: typing is the easy part, and
-the decisions are what a judge actually grades. Everyone answers the interviews
-out loud, everyone argues about the region, and somebody reads the repo on
-GitHub while the driver keeps working.
+On Friday, **one person drives.** One laptop, one session. The other three do
+the part that actually gets graded: answering the interviews out loud, arguing
+about the region, and reading the repo on GitHub while the driver keeps
+working. Typing was never the hard part.
 
 Claude saves to a draft branch, and a **pull request** is how that draft becomes
 the team's real work. Nothing counts until it's merged to `main`.
