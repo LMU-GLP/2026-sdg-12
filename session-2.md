@@ -89,6 +89,9 @@ gist describes. Every claim has to cite the source file it came from. Include
 one page comparing Los Angeles and South Korea, because we haven't picked a
 region yet.
 
+Also write wiki/index.md, listing every page with a link and a one-line
+summary, so we know where to start reading.
+
 When you're done, tell us what you found and what surprised you.
 ```
 
@@ -143,9 +146,13 @@ Then commit and merge again.
 
 ## 2. Read what you built (5 min)
 
-**Stop typing.** Everyone opens the wiki on their own laptop and reads it:
+**Stop typing.** Everyone opens the wiki on their own laptop:
 
 **[github.com/LMU-GLP/2026-sdg-12/tree/main/wiki](https://github.com/LMU-GLP/2026-sdg-12/tree/main/wiki)**
+
+**Start with `index.md`.** It lists every page with a one-line summary, so read
+that first, then open the two or three pages that sound most important. Don't
+try to read all of them in five minutes.
 
 Empty, or a 404? You haven't merged. Go back and merge, then reload.
 
