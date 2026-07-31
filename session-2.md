@@ -106,29 +106,33 @@ finish in 25 minutes.
 Read the plan out loud and cut anything you can't finish. Scoping is the lesson
 here. A small thing that works beats a big thing that doesn't.
 
-## 5. Build what you'll show (25 min)
+## 5. Build it (25 min)
 
-Your concept might be a business, a program, a service, a product, or something
-else. What you build today is the page that makes it real to a judge who has
-never heard of it. **The page is not the idea. It's how you show the idea.**
+Now make your solution come to life. Tell Claude what you decided and let it
+build.
 
-Depending on what your team decided, that page might be:
+**What you build is up to you.** Some options, none of them required:
 
-- **A business** — the landing page. What it offers, who it's for, and the
-  figures from your sources that prove people need it
-- **A program** — the page someone lands on to join. Who runs it, who it
-  serves, how you sign up, what it costs
-- **A product or app** — a clickable mockup of the one screen that matters most
-- **A campaign** — the thing people would actually see, and what you want them
-  to do next
-- **Anything at all** — a dashboard of your own evidence that makes the problem
-  impossible to ignore
+- **A web app** — if your solution is a product, build the actual thing
+- **A website for your business** — the real site, not a picture of one
+- **A sign-up page for your program** — how somebody would genuinely join
+- **A dashboard** — your evidence, laid out so the problem is impossible to
+  ignore
+- **Something else entirely** — if you can describe it, Claude can probably
+  build it. Ask
+
+One technical rule: it has to be `index.html` in the root of this repo, because
+that's the file GitHub Pages publishes.
 
 ```
 Build it as index.html in the root of this repo so GitHub Pages can serve it.
 Use real figures from our sources and put the citation next to each number on
 the page. No invented statistics.
 ```
+
+Then keep going. If the first version is dull, say so and ask for better. Ask
+for a chart. Ask it to make the page work on a phone. You have 25 minutes and
+Claude is fast, so the limit is what you ask for, not what it can do.
 
 ## 6. Verify (5 min)
 
