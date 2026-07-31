@@ -8,6 +8,8 @@ This repo is a research wiki. It has three layers, and the order matters.
   that's information.
 - `wiki/` — pages written *from* the sources. Every claim traces back to a file
   in `sources/`. A page with no citation behind it is a placeholder, not a page.
+  `wiki/index.md` is the catalog: every page, with a link and a one-line
+  summary. Keep it current whenever pages are added or renamed.
 - `CLAUDE.md` — this file. The rules.
 
 ## Rules for Claude
