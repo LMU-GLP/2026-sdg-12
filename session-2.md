@@ -190,11 +190,14 @@ Argue about this. The region is a real choice and you have evidence for both.
 
 ## 4. Read the problem statement out loud (5 min)
 
-**Stop typing again.** One person reads it aloud, slowly, to the team, straight
-off the driver's screen. Everybody else listens rather than reading along.
+**Stop typing again.** One person reads it aloud, slowly, to the team.
 
-**Don't merge for this one.** It's one paragraph and Claude just printed it. If
-it's scrolled away:
+Everyone else can follow along. Claude prints the statement in the chat and
+gives you a link to the PR it pushed to — open that link and you'll see the
+file. **You don't need to merge for this**, and you don't need to go hunting
+for a branch.
+
+Scrolled away? Ask:
 
 ```
 Show us the problem statement again.
