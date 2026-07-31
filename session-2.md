@@ -22,16 +22,25 @@ decisions are what matter:
 
 ## Open it
 
-1. Go to **[claude.ai/code](https://claude.ai/code)** and sign in with your Claude account
-2. If this is your first time, you'll see one button: **Connect to GitHub**. Click it
-   and authorize. When GitHub asks which organizations Claude can reach, include
-   **LMU-GLP**
-3. Above the message box you should see **Full network access**. If you do, you're
-   set. If you see anything else, click it and choose **Full network access**. Claude
-   can't read a single web page without it, and it fails quietly
-4. Click **+ Select repo...** and choose **LMU-GLP/2026-sdg-12**
-5. Not in the list? You haven't accepted your GitHub invitation. Open
-   [github.com/notifications](https://github.com/notifications), accept it, reload
+1. Go to **[claude.ai/code](https://claude.ai/code)** and sign in with your Claude
+   account
+2. **Check the network setting first.** Above the message box there's a cloud
+   button. It should already say **Full network access**. If it says anything
+   else, click it and change it. Claude cannot read a single web page without
+   this, and it fails quietly — searches come back, then nothing loads
+3. Click **+ Select repo...**
+4. In the dropdown that opens, click **Connect to GitHub**
+5. GitHub asks whether Claude can access your account. Press the green
+   **Authorize** button
+6. Back in the repo list, search for `2026-sdg-12` and click
+   **LMU-GLP/2026-sdg-12**
+
+**Repo not in the list?** You haven't accepted the invitation to it yet. Open
+**[github.com/LMU-GLP/2026-sdg-12/invitations](https://github.com/LMU-GLP/2026-sdg-12/invitations)**
+and press **Accept invitation**. Then reload Claude Code and go back to step 3.
+
+That invitations link is the one that works. The notifications page often
+doesn't show repo invites at all, so go straight to the link above.
 
 
 Only the driver needs to do this. Everyone else can read the repo straight from
