@@ -156,8 +156,8 @@ try to read all of them in five minutes.
 
 Empty, or a 404? You haven't merged. Go back and merge, then reload.
 
-This is the step teams skip, and it's the one that decides whether Monday goes
-well. Four questions, out loud:
+This is the step teams skip, and everything after it is built on what you find
+here. Four questions, out loud:
 
 - Which region has more evidence behind it, LA or South Korea?
 - Which number is the most surprising?
@@ -212,8 +212,8 @@ Here's what we're unsure about: [say what]. Find a source that settles it, or
 tell us the claim isn't supported and cut it.
 ```
 
-This is the paragraph a judge attacks first on Monday. Five minutes now is
-cheaper than freezing in front of them.
+This is the paragraph you'll get asked about first on Monday, so it's worth
+the five minutes.
 
 ## 5. Design the solution (10 min)
 
@@ -305,8 +305,7 @@ Your page is here:
 
 **https://lmu-glp.github.io/2026-sdg-12/**
 
-Give it a minute, then open it on your phone. If a judge can't open it Monday,
-it doesn't count.
+Give it a minute, then open it on your phone.
 
 ## 10. Say it out loud (5 min)
 
