@@ -43,6 +43,25 @@ combine into one number. Read them as a range, not an average.
   ocean microfibre pollution** to textiles
   [Global fast fashion footprint](../sources/global-fast-fashion-footprint.md).
 
+## Where the overconsumption is concentrated
+
+- The **United States is the world's largest exporter of used clothing**:
+  17.9% of the global market by value, an estimated 700,000 metric tons a
+  year
+  [US secondhand clothing exports](../sources/us-secondhand-clothing-exports.md).
+- The **EU's used-textile exports tripled from 2000 to 2019**, to almost 1.7
+  million tonnes, with **41% going to Asia**; unsalvageable material there is
+  "likely to end up in landfills," per the European Environment Agency
+  [EU used textile exports](../sources/eu-used-textile-exports-to-asia.md).
+- **Shein went from 12% to 50% of US fast-fashion sales between January 2020
+  and November 2022**, the only major competitor still growing that year,
+  while adding an estimated 10,000 new items to its site daily
+  [Shein/US overconsumption](../sources/shein-us-overconsumption.md).
+- None of these three sources trace a specific shipment or percentage all the
+  way to Southeast Asia or Indonesia — see
+  [the problem statement](problem-statement.md) for exactly where that
+  evidence chain currently ends.
+
 ## What the UN's own framework does and doesn't say about this
 
 SDG Goal 12 has no clothing- or textile-specific target. Target 12.3 puts a

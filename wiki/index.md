@@ -11,7 +11,7 @@ region pages and the comparison.
 
 | Page | One-line summary |
 |---|---|
-| [Problem statement](problem-statement.md) | Our committed problem: 66% of Indonesian adults threw away clothing in the past year, and the production feeding that consumption is documented as polluting real communities — 185 Central Java residents won a Supreme Court case over one factory's pollution. |
+| [Problem statement](problem-statement.md) | Our committed problem: overconsumption in leading markets (the US exports more used clothing than any country; Shein alone hit 50% of US fast-fashion sales) sits upstream of real burdens on Indonesia — an import glut it now bans and destroys by the thousands of bundles, and production pollution that a Supreme Court case already confirmed harmed 185 Central Java residents. We don't yet have a source proving the exact pipeline between the two. |
 | [Fast fashion global footprint](fast-fashion-global-footprint.md) | The scale of the problem worldwide — emissions, water, waste, recycling — with figures from several different organizations that don't average into one number. |
 | [UN SDG 12 targets](un-sdg12-targets.md) | Goal 12's official targets have a specific number for food waste but none for textiles; fast fashion sits under the general "waste generation" target. |
 | [Los Angeles / California](los-angeles.md) | California disposed of 1.2 million tons of textiles in 2021 and just passed the nation's first textile producer-responsibility law, but it doesn't require anything of households until 2030. |
@@ -23,7 +23,7 @@ region pages and the comparison.
 
 ## Source list
 
-All eleven source files are in [`sources/`](../sources/):
+All fourteen source files are in [`sources/`](../sources/):
 
 - [Korea food waste system](../sources/korea-food-waste-system.md)
 - [California SB 1383 (organic waste)](../sources/la-sb1383-organic-waste.md)
@@ -36,3 +36,6 @@ All eleven source files are in [`sources/`](../sources/):
 - [Indonesian consumer disposal behavior](../sources/indonesia-consumer-disposal-behavior.md)
 - [Fast fashion river pollution (Citarum)](../sources/indonesia-fastfashion-river-pollution.md)
 - [Fast fashion textile factory lawsuit (Central Java)](../sources/indonesia-textile-factory-lawsuit.md)
+- [Shein / US overconsumption](../sources/shein-us-overconsumption.md)
+- [US secondhand clothing exports](../sources/us-secondhand-clothing-exports.md)
+- [EU used textile exports to Asia](../sources/eu-used-textile-exports-to-asia.md)
