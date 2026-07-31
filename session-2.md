@@ -291,12 +291,22 @@ Fix whatever it finds.
 
 ## 9. Deploy (5 min)
 
-Save, then merge to `main`, and your page goes live here:
+First save it:
+
+```
+Commit our work with a note about what we did, and push it.
+```
+
+Then **Create PR** in Claude Code and **Merge pull request** on GitHub, the
+same two clicks as step 1. Merging is what publishes the page — nothing goes
+live from a draft branch.
+
+Your page is here:
 
 **https://lmu-glp.github.io/2026-sdg-12/**
 
-Give it a minute. Open it on your phone. If a judge can't open it Monday, it
-doesn't count.
+Give it a minute, then open it on your phone. If a judge can't open it Monday,
+it doesn't count.
 
 ## 10. Say it out loud (5 min)
 
