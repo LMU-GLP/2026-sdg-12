@@ -264,8 +264,9 @@ build.
 - **Something else entirely** — if you can describe it, Claude can probably
   build it. Ask
 
-One technical rule: it has to be `index.html` in the root of this repo, because
-that's the file GitHub Pages publishes.
+One technical rule: it has to be `index.html` in the root of this repo. That
+exact name and place is what makes it show up as a real web page later — step 9
+explains why.
 
 ```
 Build it as index.html in the root of this repo so GitHub Pages can serve it.
@@ -306,6 +307,20 @@ Your page is here:
 **https://lmu-glp.github.io/2026-sdg-12/**
 
 Give it a minute, then open it on your phone.
+
+## Why that address works
+
+**GitHub Pages** is a free service that turns a repo into a real website. It's
+already switched on for your repo, so anything you merge to `main` gets served
+at the address above. No hosting to set up, no account to make, nothing to pay
+for. Merging is the deploy.
+
+And `index.html` is the front door. When someone types an address that ends in
+a slash with nothing after it, the browser asks the server for `index.html` by
+default. That's a rule of the web, not something GitHub invented, and it's why
+step 7 insisted on that exact filename in that exact place. Name it anything
+else and the address above shows a 404, even though your file is sitting right
+there in the repo.
 
 ## 10. Say it out loud (5 min)
 
