@@ -378,8 +378,21 @@ Everything you built is on `main`, and you can open Claude Code on this repo any
 time before Monday.
 
 **Keep building.** If your prototype is a rough first version, make it a second
-one. Add a page, add a chart, make it work properly on a phone. If your solution
-needed something you ran out of time for, ask for it now.
+one. Add a page, add a chart, make it work properly on a phone.
+
+**Or build the real thing.** Today you had thirty minutes, so you built a page.
+Over the weekend you could build the actual working web application your
+solution describes: something people click through and use, not a picture of it.
+Claude Code can do that, and it changes the Monday conversation — a judge
+clicking through a working app asks different questions than a judge looking at
+a landing page. Interview it first, the same as everything else:
+
+```
+We want to build a working web app for our concept, not just a page about it.
+Interview us first. Ask one question at a time until you know what someone
+actually does with it, what the one screen that matters looks like, and what
+we're leaving out. Then plan it before you build.
+```
 
 **Use it for the presentation too.** Claude can build your deck from the same
 wiki your page came from, which is what keeps the slides, the pitch and the demo
