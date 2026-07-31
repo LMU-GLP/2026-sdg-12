@@ -142,7 +142,7 @@ it with:
 Ingest everything in sources/ and update the wiki.
 ```
 
-Then commit and merge again.
+Then commit, push, and merge again.
 
 ## 2. Read what you built (5 min)
 
@@ -231,7 +231,7 @@ you know who it's for, what it actually does, how it would work in the real
 world, and what we're deliberately leaving out. Push back when our idea doesn't
 match the problem statement we just wrote.
 
-Then save it to wiki/concept.md and commit.
+Then save it to wiki/concept.md, commit, and push.
 ```
 
 Talk, don't type. Use your laptop's dictation. Spoken answers are longer and
@@ -306,7 +306,8 @@ Ninety seconds, timed, to another team. They ask you one question afterward.
 Write a 90-second pitch script from our problem statement and our concept.
 Plain spoken language, not a summary. Open with the problem and the number
 that proves it, name who it's for, say what our solution actually is, point at
-what we built, and end with what we want. Save it to wiki/pitch.md and commit.
+what we built, and end with what we want. Save it to wiki/pitch.md, commit,
+and push.
 ```
 
 You'll polish delivery Saturday at the pitch workshop. Today just proves the
