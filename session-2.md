@@ -8,6 +8,18 @@ their phone.
 By 12:15 your team has a problem statement you can defend, something live at a
 public URL, and a pitch you've said out loud once.
 
+```mermaid
+flowchart LR
+  R["Research<br/>sources and wiki"] --> P["Problem statement<br/>which region, who"]
+  P --> S["Solution<br/>business? program? app?"]
+  S --> B["Prototype<br/>a page they can open"]
+  B --> T["Pitch<br/>90 seconds"]
+```
+
+Each box depends on the one before it. That's why the order is fixed: you can't
+choose a solution before you know whose problem you're solving, and you can't
+know that until you've read your own research.
+
 ## How today works
 
 **One person drives.** One laptop sends the prompts. The driver is the slowest
@@ -333,9 +345,9 @@ step 7 insisted on that exact filename in that exact place. Name it anything
 else and the address above shows a 404, even though your file is sitting right
 there in the repo.
 
-## 10. Say it out loud (5 min)
+## 10. Write the pitch, then say it out loud (5 min)
 
-Ninety seconds, timed, to another team. They ask you one question afterward.
+Write it first:
 
 ```
 Write a 90-second pitch script from our problem statement and our concept.
@@ -345,8 +357,50 @@ what we built, and end with what we want. Save it to wiki/pitch.md, commit,
 and push.
 ```
 
-You'll polish delivery Saturday at the pitch workshop. Today just proves the
-script exists and fits in 90 seconds.
+Then one person reads it out loud to the rest of the team, timed.
+
+Everyone else listens for anything that doesn't land: a number that comes out
+of nowhere, a sentence nobody could follow, a claim you can't say with a
+straight face. Say what you noticed, fix it, and you're done for today.
+
+**On Monday you won't be reading this.** You also don't need it memorised word
+for word — that almost always sounds worse than knowing it. Know it well enough
+to talk to it: the problem, the number that proves it, who it's for, what you
+built, what you want. Saturday's pitch workshop is where you get there.
+
+Today just proves the script exists and fits in 90 seconds.
+
+## What's next
+
+Today ends here. The repo doesn't.
+
+Everything you built is on `main`, and you can open Claude Code on this repo any
+time before Monday.
+
+**Keep building.** If your prototype is a rough first version, make it a second
+one. Add a page, add a chart, make it work properly on a phone. If your solution
+needed something you ran out of time for, ask for it now.
+
+**Use it for the presentation too.** Claude can write your deck from the same
+wiki your page came from, which is what keeps the slides, the pitch and the demo
+saying the same thing:
+
+```
+Draft our 10-minute presentation from wiki/. One slide per section, and put the
+citation for every number on the slide where that number appears.
+```
+
+**Give it the actual assignment.** Put the project brief and the judging rubric
+into the repo — a `docs/` folder is fine — then commit and push them. Now Claude
+is working against the real criteria instead of guessing at them:
+
+```
+Read the brief and the rubric in docs/, then tell us what our presentation is
+missing and what a judge would push on.
+```
+
+That last one is worth running Sunday night, once the deck exists.
+
 
 ## Saving and merging, any time
 
@@ -378,5 +432,3 @@ Claude can open a pull request. Only you can merge it.
   to `main`
 - Every number on the page traces to a file in `sources/`
 - At least five sources, all cited in the wiki
-- A punch list with a name on each task, for Saturday 9:00-10:30 AM, Sunday
-  5:15-10:00 PM, and Monday 9:00-10:00 AM
