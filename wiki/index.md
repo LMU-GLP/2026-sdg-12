@@ -11,7 +11,7 @@ region pages and the comparison.
 
 | Page | One-line summary |
 |---|---|
-| [Problem statement](problem-statement.md) | Our committed problem: Indonesia's crackdown on secondhand clothing imports squeezes the 26M+ people below its poverty line who rely on that trade, while doing nothing about the (globally-measured) pollution fast fashion is actually blamed for. |
+| [Problem statement](problem-statement.md) | Our committed problem: 66% of Indonesian adults threw away clothing in the past year, and the production feeding that consumption is documented as polluting real communities — 185 Central Java residents won a Supreme Court case over one factory's pollution. |
 | [Fast fashion global footprint](fast-fashion-global-footprint.md) | The scale of the problem worldwide — emissions, water, waste, recycling — with figures from several different organizations that don't average into one number. |
 | [UN SDG 12 targets](un-sdg12-targets.md) | Goal 12's official targets have a specific number for food waste but none for textiles; fast fashion sits under the general "waste generation" target. |
 | [Los Angeles / California](los-angeles.md) | California disposed of 1.2 million tons of textiles in 2021 and just passed the nation's first textile producer-responsibility law, but it doesn't require anything of households until 2030. |
@@ -23,7 +23,7 @@ region pages and the comparison.
 
 ## Source list
 
-All eight source files are in [`sources/`](../sources/):
+All eleven source files are in [`sources/`](../sources/):
 
 - [Korea food waste system](../sources/korea-food-waste-system.md)
 - [California SB 1383 (organic waste)](../sources/la-sb1383-organic-waste.md)
@@ -33,3 +33,6 @@ All eight source files are in [`sources/`](../sources/):
 - [Kloth Cares / Southeast Asia circular fashion](../sources/sea-kloth-cares-circular-fashion.md)
 - [South Korea's fast fashion boom](../sources/korea-fast-fashion-boom.md)
 - [Indonesia's secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md)
+- [Indonesian consumer disposal behavior](../sources/indonesia-consumer-disposal-behavior.md)
+- [Fast fashion river pollution (Citarum)](../sources/indonesia-fastfashion-river-pollution.md)
+- [Fast fashion textile factory lawsuit (Central Java)](../sources/indonesia-textile-factory-lawsuit.md)

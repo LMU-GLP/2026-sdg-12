@@ -28,6 +28,30 @@ running.
   gap in this wiki, not something either source states
   [Indonesia secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md).
 
+## The problem: overconsumption and production pollution, in Indonesia
+
+- In a 2017 YouGov survey, **66% of Indonesian adults** had thrown away
+  clothing in the past year, **29%** after wearing a garment just once, and
+  **5% of millennials** admitted to burning unwanted clothes rather than
+  donating or reselling them
+  [Indonesian consumer disposal behavior](../sources/indonesia-consumer-disposal-behavior.md).
+- **Over 1,000 factories** operate along Indonesia's Citarum River, dumping
+  **mercury, cadmium, and arsenic** into water locals also bathe and wash
+  clothes in; viscose fiber production for the fast fashion industry
+  generates carbon disulfide gas and wastewater pollution, per Nexus3
+  Foundation's Yuyun Ismawati: **"causing environmental damage and health
+  problems"**
+  [Fast fashion river pollution](../sources/indonesia-fastfashion-river-pollution.md).
+- **185 residents** of Central Java villages won a Supreme Court case against
+  a viscose factory (PT Rayon Utama Makmur) after documented air pollution
+  across seven subdistricts. Resident Sarmi: **"With pollution that acrid and
+  poisonous, there weren't any birds or animals around — they all went
+  away."**
+  [Fast fashion textile factory lawsuit](../sources/indonesia-textile-factory-lawsuit.md)
+- These are two different points in the lifecycle — household disposal and
+  factory production — documented by different sources. Nothing traces a
+  specific discarded garment to a specific polluted river.
+
 ## Existing solutions in the region
 
 - **Kloth Cares (Malaysia)**, founded 2016, estimates Malaysians produce

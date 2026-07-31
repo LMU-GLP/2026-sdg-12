@@ -1,77 +1,87 @@
 # Problem statement
 
 **Region:** Indonesia (Southeast Asia)
-**Who:** low-income Indonesian households
-**How many:** more than 26 million people, officially recorded as living
-below Indonesia's poverty line
-[Indonesia secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md)
+**Who:** Indonesian households whose overconsumption of fast fashion feeds
+textile production pollution, and the communities living next to that
+production
+**How many:** 66% of Indonesian adults threw away clothing in the past year;
+185 Central Java residents won a Supreme Court case over one factory's
+documented pollution
 
-## The tension
+## What changed from the first draft
 
-Indonesia has banned secondhand clothing imports since 2015 to protect its
-domestic textile industry, and enforcement is escalating: in a single raid in
-West Java in March 2023, officials destroyed more than 7,000 bundles of
-illegally imported used clothing, valued at $5.3 billion. Trade Minister
-Zulkifli Hasan called it "the climax" of repeated enforcement actions
-[Indonesia secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md).
+The first draft of this statement centered on Indonesia's 2015 secondhand-
+clothing import ban and the low-income households who rely on that trade —
+an affordability story. The team flagged that this wasn't the problem you
+set out to solve: you're after the **pollution and dumps created by fast
+fashion and overconsumption** specifically. We went and found Indonesia-
+specific sources for that instead. The import-ban material is still in
+[sources/](../sources/indonesia-secondhand-clothing-crackdown.md) and still
+true, it's just not what this statement is built from anymore.
 
-But it's the country's low-income population — more than 26 million people
-officially below the poverty line — that this same source describes as the
-population the secondhand trade serves
-[Indonesia secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md).
-Sellers and buyers describe the stakes directly: seller Siti said, "If there
-are no clothes, that means no money," and business law lecturer Kosman
-Samosir argued the trade "gives people who don't have the means to buy
-branded clothes at full price the chance to still own a piece"
-[Indonesia secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md).
+## The problem, in two connected parts
 
-The crackdown targets the *secondhand* supply chain — but the pollution most
-associated with fast fashion comes from a different part of the industry
-entirely: new-garment production and disposal. None of the figures below are
-specific to Indonesia; they describe the fashion industry worldwide, and
-they're kept separate here deliberately rather than presented as local:
+**Part 1 — households are overconsuming and discarding.** In a 2017 YouGov
+survey of Indonesian adults, **66% had thrown away clothing in the past
+year**, **29% had discarded a garment after wearing it only once**, and
+**25% had thrown away more than 10 items** that year. A small share of
+millennials — **5%** — said they burned unwanted clothing outright, rather
+than donating or reselling it
+[Indonesian consumer disposal behavior](../sources/indonesia-consumer-disposal-behavior.md).
+This survey is from December 2017 — over eight years old — so treat it as a
+floor on today's behavior, not a current reading
+[Indonesian consumer disposal behavior](../sources/indonesia-consumer-disposal-behavior.md).
 
-- Fashion is responsible for somewhere between **2% and 8% of global carbon
-  emissions** (World Resources Institute), and could reach **26% of the
-  remaining global carbon budget by 2050** on current growth (Ellen MacArthur
-  Foundation, 2017) — two different measures (a current share vs. a future
-  projection), not one figure
-  [Global fast fashion footprint](../sources/global-fast-fashion-footprint.md).
-- The industry uses an estimated **215 trillion litres of water annually**
-  (Quantis, 2018)
-  [Global fast fashion footprint](../sources/global-fast-fashion-footprint.md).
-- **~20% of industrial wastewater pollution** globally is attributed to
-  fashion/textile dyeing and treatment (World Bank, 2020)
-  [Global fast fashion footprint](../sources/global-fast-fashion-footprint.md).
-- **Less than 1% of the material used to make clothing is recycled back into
-  new clothing** (Ellen MacArthur Foundation, 2017)
-  [Global fast fashion footprint](../sources/global-fast-fashion-footprint.md).
+**Part 2 — the production that feeds that consumption is documented as
+polluting specific communities.** Indonesia produces 2.4% of the world's
+textiles, and more than **1,000 factories** operate along the banks of the
+Citarum River in West Java, discharging **mercury, cadmium, and arsenic**
+into water that local residents also use to bathe and wash clothes in.
+Manufacturing viscose fiber — a material used by the fast fashion industry —
+generates carbon disulfide gas that leaks into the air, and wastewater
+byproducts that Nexus3 Foundation's Yuyun Ismawati says are "causing
+environmental damage and health problems"
+[Fast fashion river pollution](../sources/indonesia-fastfashion-river-pollution.md).
 
-## The problem, stated plainly
+This isn't a hypothetical: **185 residents of Central Java villages** won a
+class-action case at Indonesia's Supreme Court against PT Rayon Utama Makmur,
+a viscose factory, after **documented air pollution across seven
+subdistricts** and a wastewater discharge into the Bengawan Solo River. Local
+resident Sarmi described the effect directly: **"With pollution that acrid
+and poisonous, there weren't any birds or animals around — they all went
+away."** The court awarded compensation, but the plaintiffs' spokesperson,
+Slamet Riyadi, said **"material compensation wasn't the main objective — what
+we preferred was for there to be no more pollution"**
+[Fast fashion textile factory lawsuit](../sources/indonesia-textile-factory-lawsuit.md).
 
-Indonesia's government is fighting the wrong end of the waste problem.
-Enforcement is aimed at the secondhand trade that more than 26 million
-low-income Indonesians rely on for affordable clothing — not at the
-new-garment production and disposal cycle that the global pollution figures
-above are actually describing. A household-focused intervention has to work
-inside that reality: if affordable secondhand access keeps shrinking under
-enforcement, the households this project is meant to help are pushed toward
-buying new fast fashion instead, not away from waste.
+## Why these two parts are cited separately, not merged
+
+Part 1 (household disposal) and Part 2 (factory pollution) are different
+points in fast fashion's lifecycle, documented by different sources, in
+different parts of Indonesia. Nothing in our sources traces a specific
+discarded garment from an Indonesian household's closet to the Citarum River
+or to PT RUM's wastewater pipe. What the sources *do* establish is that both
+things are real and happening in the same country: households are
+discarding at high rates, and the industry's production side is causing
+verified pollution and harm. The connection between the two is the shared
+industry, not a documented supply chain.
 
 ## What we don't have, and shouldn't pretend to
 
-- No source in this wiki gives an Indonesia-specific pollution, emissions, or
-  water-use figure — the pollution figures above are global only.
-- No source narrows the 26 million poverty-line figure down to specifically
-  "people who buy secondhand clothing" — it's Indonesia's whole
-  poverty-line population, cited as the population our source says the trade
-  serves, not a subset count of secondhand buyers.
-- No source in this wiki states what share of Indonesia's *imported* used
-  clothing (as opposed to domestically discarded clothing) ends up as
-  landfill waste versus resold stock — that number would need a new source
-  before it's cited anywhere.
+- No source quantifies how much of Indonesia's *own* discarded clothing (as
+  opposed to imported secondhand clothing, covered separately in
+  [that source](../sources/indonesia-secondhand-clothing-crackdown.md)) ends
+  up in a landfill, is burned, or is exported.
+- No source connects the Citarum River or Central Java pollution cases to a
+  specific number of affected residents beyond the 185 named plaintiffs in
+  the RUM case — "over 1,000 factories" on the Citarum is a factory count,
+  not a population-harmed count.
+- The consumer-behavior figures are from 2017. If this project needs a
+  current household disposal rate, that number doesn't exist yet in this
+  wiki.
 
 ## Sources behind this statement
 
-- [Indonesia's secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md)
-- [Global fast fashion footprint](../sources/global-fast-fashion-footprint.md)
+- [Indonesian consumer disposal behavior](../sources/indonesia-consumer-disposal-behavior.md)
+- [Fast fashion river pollution (Citarum)](../sources/indonesia-fastfashion-river-pollution.md)
+- [Fast fashion textile factory lawsuit (Central Java)](../sources/indonesia-textile-factory-lawsuit.md)
