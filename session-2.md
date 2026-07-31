@@ -56,9 +56,13 @@ Two sources are already in `sources/` — one on Los Angeles, one on South Korea
 This prompt reads them, finds three more, and builds the wiki from all five.
 
 ```
-Set up this repo as a research wiki for our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
+Set up this repo as an LLM wiki for our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
 
-Start from the two sources already in sources/ and read them both. Then find
+Read this gist first. It's the pattern we're using, and it explains how the
+whole thing should be structured:
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+Then start from the two sources already in sources/ and read them both. Find
 three more yourself: the UN targets for our goal at
 https://sdgs.un.org/goals/goal12, one dataset with real figures, and one
 program or business already working on this problem. Save each new one as its
@@ -66,9 +70,10 @@ own file in sources/, in the same format as the two that are there: page title,
 URL, today's date, key figures with short direct quotes, and a two-sentence
 summary.
 
-Then build the wiki in wiki/ from all five sources. Every claim has to cite the
-source file it came from. Include one page comparing Los Angeles and South
-Korea, because we haven't picked a region yet.
+Now build the wiki in wiki/ from all five sources, following the structure the
+gist describes. Every claim has to cite the source file it came from. Include
+one page comparing Los Angeles and South Korea, because we haven't picked a
+region yet.
 
 When you're done, tell us what you found and what surprised you.
 ```
