@@ -146,7 +146,7 @@ is really for. Argue about it. That argument is the work.
 When you're happy with it:
 
 ```
-Save it to wiki/problem-statement.md and commit.
+Save it to wiki/problem-statement.md, commit, and push.
 ```
 
 Then read it out loud one more time. If any team member can't defend a sentence
