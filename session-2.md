@@ -64,7 +64,8 @@ you send anything** — they're the only evidence you have right now:
 - [Los Angeles](sources/la-sb1383-organic-waste.md)
 - [South Korea](sources/korea-food-waste-system.md)
 
-This prompt reads them, finds three more, and builds the wiki from all five.
+This prompt reads them, finds three more, and builds the wiki from everything
+in `sources/`.
 
 ```
 Set up this repo as an LLM wiki for our challenge:
@@ -83,7 +84,7 @@ own file in sources/, in the same format as the two that are there: page title,
 URL, today's date, key figures with short direct quotes, and a two-sentence
 summary.
 
-Now build the wiki in wiki/ from all five sources, following the structure the
+Now build the wiki in wiki/ from all sources, following the structure the
 gist describes. Every claim has to cite the source file it came from. Include
 one page comparing Los Angeles and South Korea, because we haven't picked a
 region yet.
@@ -316,6 +317,6 @@ There is no merge button inside Claude Code. Lost the link? Go to
 - `wiki/problem-statement.md`, `wiki/concept.md` and `wiki/pitch.md` are merged
   to `main`
 - Every number on the page traces to a file in `sources/`
-- Five sources, all cited in the wiki
+- At least five sources, all cited in the wiki
 - A punch list with a name on each task, for Saturday 9:00-10:30 AM, Sunday
   5:15-10:00 PM, and Monday 9:00-10:00 AM
