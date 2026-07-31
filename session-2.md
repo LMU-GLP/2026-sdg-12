@@ -181,14 +181,24 @@ everything in sources/ and wiki/, and tell us when our answers contradict our
 own evidence.
 
 Don't write it until we've answered. Then save it to
-wiki/problem-statement.md, with a citation on every figure, and commit.
+wiki/problem-statement.md, with a citation on every figure, commit, and push.
+
+Then print the whole problem statement in the chat so we can read it.
 ```
 
 Argue about this. The region is a real choice and you have evidence for both.
 
 ## 4. Read the problem statement out loud (5 min)
 
-**Stop typing again.** One person reads it aloud, slowly, to the team.
+**Stop typing again.** One person reads it aloud, slowly, to the team, straight
+off the driver's screen. Everybody else listens rather than reading along.
+
+**Don't merge for this one.** It's one paragraph and Claude just printed it. If
+it's scrolled away:
+
+```
+Show us the problem statement again.
+```
 
 Then, honestly: **can every single one of you defend every sentence?** If
 anyone hesitates on a sentence, that sentence needs a better source or it needs
