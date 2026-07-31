@@ -71,7 +71,7 @@ Only the driver needs to do this. Everyone else can read the repo straight from
 ## 1. Build the wiki, in one shot (10 min)
 
 Two sources are already in `sources/`, one on each region. **Read them before
-you send anything** — they're the only evidence you have right now:
+you send anything.** They're the only evidence you have right now:
 
 - [Los Angeles](sources/la-sb1383-organic-waste.md)
 - [South Korea](sources/korea-food-waste-system.md)
@@ -138,7 +138,7 @@ merge**.
 green **Compare & pull request** button. Press that, then **Create pull
 request**, then **Merge pull request**.
 
-Claude can open the pull request. It cannot merge it — merging is always your
+Claude can open the pull request. It cannot merge it. Merging is always your
 click, and it's what puts the work on `main`.
 
 Don't skip this. Until you merge, the wiki exists only on the driver's private
@@ -211,7 +211,7 @@ Argue about this. The region is a real choice and you have evidence for both.
 **Stop typing again.** One person reads it aloud, slowly, to the team.
 
 Everyone else can follow along. Claude prints the statement in the chat and
-gives you a link to the PR it pushed to — open that link and you'll see the
+gives you a link to the PR it pushed to. Open that link and you'll see the
 file. **You don't need to merge for this**, and you don't need to go hunting
 for a branch.
 
@@ -235,8 +235,8 @@ the five minutes.
 
 ## 5. Design the solution (10 min)
 
-Now, and only now, the solution. You couldn't have done this first — you didn't
-know whose problem you were solving.
+Now, and only now, the solution. You couldn't have done this first, because you
+didn't know whose problem you were solving.
 
 ```
 Now interview us about our solution to that problem statement.
@@ -283,7 +283,7 @@ build.
   build it. Ask
 
 One technical rule: it has to be `index.html` in the root of this repo. That
-exact name and place is what makes it show up as a real web page later — step 9
+exact name and place is what makes it show up as a real web page later. Step 9
 explains why.
 
 ```
@@ -364,7 +364,7 @@ of nowhere, a sentence nobody could follow, a claim you can't say with a
 straight face. Say what you noticed, fix it, and you're done for today.
 
 **On Monday you won't be reading this.** You also don't need it memorised word
-for word — that almost always sounds worse than knowing it. Know it well enough
+for word. That almost always sounds worse than knowing it. Know it well enough
 to talk to it: the problem, the number that proves it, who it's for, what you
 built, what you want. Saturday's pitch workshop is where you get there.
 
@@ -383,7 +383,7 @@ one. Add a page, add a chart, make it work properly on a phone.
 **Or build the real thing.** Today you had thirty minutes, so you built a page.
 Over the weekend you could build the actual working web application your
 solution describes: something people click through and use, not a picture of it.
-Claude Code can do that, and it changes the Monday conversation — a judge
+Claude Code can do that, and it changes the Monday conversation. A judge
 clicking through a working app asks different questions than a judge looking at
 a landing page. Interview it first, the same as everything else:
 
@@ -410,7 +410,7 @@ that number appears.
 ```
 
 **Give it the actual assignment.** Put the project brief and the judging rubric
-into the repo — a `docs/` folder is fine — then commit and push them. Now Claude
+into the repo (a `docs/` folder is fine), then commit and push them. Now Claude
 is working against the real criteria instead of guessing at them:
 
 ```
