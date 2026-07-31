@@ -2,14 +2,16 @@
 
 Challenge: *How might we help a household reduce waste and make smarter
 choices about what members buy, use, and throw away?* Focus: **fast
-fashion**. Region under consideration: **Southeast Asia**, compared against
-Los Angeles/California and South Korea.
+fashion**. **Committed region: Indonesia** (Southeast Asia), chosen after
+comparing against Los Angeles/California and South Korea.
 
-Start with [the scale of the problem](fast-fashion-global-footprint.md), then
-read the three region pages, then the comparison.
+Start with the [problem statement](problem-statement.md), then
+[the scale of the problem](fast-fashion-global-footprint.md), then the three
+region pages and the comparison.
 
 | Page | One-line summary |
 |---|---|
+| [Problem statement](problem-statement.md) | Our committed problem: Indonesia's crackdown on secondhand clothing imports squeezes the 26M+ people below its poverty line who rely on that trade, while doing nothing about the (globally-measured) pollution fast fashion is actually blamed for. |
 | [Fast fashion global footprint](fast-fashion-global-footprint.md) | The scale of the problem worldwide — emissions, water, waste, recycling — with figures from several different organizations that don't average into one number. |
 | [UN SDG 12 targets](un-sdg12-targets.md) | Goal 12's official targets have a specific number for food waste but none for textiles; fast fashion sits under the general "waste generation" target. |
 | [Los Angeles / California](los-angeles.md) | California disposed of 1.2 million tons of textiles in 2021 and just passed the nation's first textile producer-responsibility law, but it doesn't require anything of households until 2030. |
