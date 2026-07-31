@@ -33,9 +33,8 @@ lessons and family activities, backed by community outreach.
 
 The case study here is **Orange County**, not Los Angeles County. SB 1383 is a
 statewide law that applies to LA identically, and the statewide figures above
-hold. But if this team wants LA-specific diversion numbers, that's a good target
-for Friday's source sprint — try CalRecycle's jurisdiction reports or LA
-Sanitation.
+hold. But if this team wants LA-specific diversion numbers, ask Claude for them on
+Friday — try CalRecycle's jurisdiction reports or LA Sanitation.
 
 ## Summary
 
