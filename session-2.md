@@ -5,8 +5,8 @@ their phone.
 
 [Back to the front page](README.md) · [Session 1](session-1.md)
 
-By 12:15 your team has something a judge can open at a public URL, built from
-your own sources, and you've said your pitch out loud once.
+By 12:15 your team has a problem statement you can defend, something a judge
+can open at a public URL, and a pitch you've said out loud once.
 
 ## Open it
 
@@ -72,25 +72,35 @@ design against your evidence, and until you ingest, your wiki still only knows
 about the two sources you were given. You'd be deciding without the three you
 just went and found.
 
-## 3. Lock the concept (10 min)
+## 3. Lock the problem, then the concept (10 min)
 
-Everyone in the room, out loud. Claude asks, you decide. This is the same
-interview you ran on Wednesday, pointed at a solution instead of a question.
+Everyone in the room, out loud. Claude asks, you decide.
+
+**Two things, in this order.** Wednesday was supposed to end with a problem
+statement and most teams never got there, so it happens now. It has to come
+first, because you can't choose a solution before you've chosen the problem.
+Five minutes on each.
 
 ```
-We're designing a solution to our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
+Two things, in order, and interview us for both. Ask one question at a time,
+give us multiple-choice options, and use everything in sources/ and wiki/ as
+background. Tell us when our answers contradict our own evidence.
 
-It could be a business, a program, a service, a product, a campaign, or
-something we haven't thought of yet. Don't assume which one.
+FIRST, our problem statement. Which region can we actually defend, who
+specifically is affected, and what do our sources say about them?
 
-Before you suggest anything, interview us. Ask one question at a time, give us
-multiple-choice options, and keep going until you know who this is for, what it
-actually does, how it would work in the real world, and what we're deliberately
-leaving out. Use everything in sources/ and wiki/ as background, and tell us
-when our answers contradict our own evidence.
+THEN, our solution to it. It could be a business, a program, a service, a
+product, a campaign, or something we haven't thought of yet. Don't assume
+which one. Keep asking until you know who it's for, what it actually does,
+how it would work in the real world, and what we're deliberately leaving out.
 
-When we're done, write the design to wiki/concept.md and commit it.
+Save the problem statement to wiki/problem-statement.md and the solution to
+wiki/concept.md, then commit both.
 ```
+
+Argue about the first half. That argument is the work, and the problem
+statement is the first thing a judge will push on Monday. If anyone on your
+team can't defend a sentence in it, that sentence needs a better source.
 
 Talk, don't type. Use your laptop's dictation. Spoken answers are longer and
 better than anything you'd type in 30 seconds, and the whole team hears the ask.
@@ -160,8 +170,9 @@ doesn't count.
 Ninety seconds, timed, to another team. They ask you one question afterward.
 
 ```
-Write a 90-second pitch script from our wiki and our concept. Plain spoken
-language, not a summary. Open with the problem and the number that proves it,
+Write a 90-second pitch script from our problem statement and our concept.
+Plain spoken language, not a summary. Open with the problem and the number
+that proves it,
 name who it's for, say what our solution actually is, point at what we built,
 and end with what we want. Save it to wiki/pitch.md and commit.
 ```
@@ -215,7 +226,7 @@ Merge main into our branch and resolve the conflicts.
 ## Before you leave
 
 - Your page is **live** at the URL above and opens on a phone
-- `wiki/concept.md` and `wiki/pitch.md` are merged to `main`
+- `wiki/problem-statement.md`, `wiki/concept.md` and `wiki/pitch.md` are merged to `main`
 - Every number on the page traces to a file in `sources/`
 - At least five sources in `sources/`, three of them yours
 - A punch list with a name on each task, for Saturday 9:00–10:30 AM, Sunday
