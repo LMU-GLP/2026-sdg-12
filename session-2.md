@@ -67,11 +67,14 @@ interview you ran on Wednesday, pointed at a solution instead of a question.
 ```
 We're designing a solution to our challenge: "How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?"
 
+It could be a business, a program, a service, a product, a campaign, or
+something we haven't thought of yet. Don't assume which one.
+
 Before you suggest anything, interview us. Ask one question at a time, give us
 multiple-choice options, and keep going until you know who this is for, what it
-actually does, and what we're deliberately leaving out. Use everything in
-sources/ and wiki/ as background, and tell us when our answers contradict our
-own evidence.
+actually does, how it would work in the real world, and what we're deliberately
+leaving out. Use everything in sources/ and wiki/ as background, and tell us
+when our answers contradict our own evidence.
 
 When we're done, write the design to wiki/concept.md and commit it.
 ```
@@ -88,14 +91,31 @@ Ingest everything in sources/ and update the wiki.
 ## 3. Plan, then cut it (5 min)
 
 ```
-Write a short plan for building a simple web app of that concept. List the
-steps in order. Keep it to what four people can finish in 25 minutes.
+Write a short plan for building a page that shows our concept to someone who
+has never heard of it. List the steps in order. Keep it to what four people can
+finish in 25 minutes.
 ```
 
 Read the plan out loud and cut anything you can't finish. Scoping is the lesson
 here. A small thing that works beats a big thing that doesn't.
 
-## 4. Build it (25 min)
+## 4. Build what you'll show (25 min)
+
+Your concept might be a business, a program, a service, a product, or something
+else. What you build today is the page that makes it real to a judge who has
+never heard of it. **The page is not the idea. It's how you show the idea.**
+
+Depending on what your team decided, that page might be:
+
+- **A business** — the landing page. What it offers, who it's for, and the
+  figures from your sources that prove people need it
+- **A program** — the page someone lands on to join. Who runs it, who it
+  serves, how you sign up, what it costs
+- **A product or app** — a clickable mockup of the one screen that matters most
+- **A campaign** — the thing people would actually see, and what you want them
+  to do next
+- **Anything at all** — a dashboard of your own evidence that makes the problem
+  impossible to ignore
 
 ```
 Build it as index.html in the root of this repo so GitHub Pages can serve it.
@@ -117,7 +137,7 @@ Fix whatever it finds. Then merge.
 
 ## 6. Deploy (10 min)
 
-Merge to `main` and your app goes live here:
+Merge to `main` and your page goes live here:
 
 **https://lmu-glp.github.io/2026-sdg-12/**
 
@@ -131,8 +151,8 @@ Ninety seconds, timed, to another team. They ask you one question afterward.
 ```
 Write a 90-second pitch script from our wiki and our concept. Plain spoken
 language, not a summary. Open with the problem and the number that proves it,
-name who it's for, show the app, and end with what we want. Save it to
-wiki/pitch.md and commit.
+name who it's for, say what our solution actually is, point at what we built,
+and end with what we want. Save it to wiki/pitch.md and commit.
 ```
 
 You'll polish delivery Saturday at the pitch workshop. Today just proves the
@@ -183,9 +203,9 @@ Merge main into our branch and resolve the conflicts.
 
 ## Before you leave
 
-- Your app is **live** at the URL above and opens on a phone
+- Your page is **live** at the URL above and opens on a phone
 - `wiki/concept.md` and `wiki/pitch.md` are merged to `main`
-- Every number on the app traces to a file in `sources/`
+- Every number on the page traces to a file in `sources/`
 - At least five sources in `sources/`, three of them yours
 - A punch list with a name on each task, for Saturday 9:00–10:30 AM, Sunday
   5:15–10:00 PM, and Monday 9:00–10:00 AM
