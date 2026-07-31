@@ -3,10 +3,25 @@
 **Your challenge:** How might we help a household reduce waste and make smarter choices about what members buy, use, and throw away?
 
 **Your region is open.** Los Angeles, South Korea, or any other part of the
-world. Research two before you commit to one.
+world. Two sources in this repo already cover LA and South Korea so you can
+compare before you commit.
 
-Every prompt you need is on this page, in order. Each one has a copy button in
-its top-right corner, so you never have to select text by hand.
+## Your two sessions
+
+| | |
+|---|---|
+| **[Session 1: build the research wiki](session-1.md)** | Wednesday. Sources, citations, and a problem statement you can defend. |
+| **[Session 2: build the prototype](session-2.md)** | Friday. Three more sources, then a working web app and a 90-second pitch. |
+
+Every prompt you need is on those two pages, in order, each with a copy button
+in its top-right corner.
+
+## What's already here
+
+- `CLAUDE.md` — the rules Claude follows in this repo
+- `sources/` — two sources we found for you, one on Los Angeles and one on
+  South Korea. Read both before you pick a region
+- UN targets for your goal: [sdgs.un.org/goals/goal12](https://sdgs.un.org/goals/goal12)
 
 ## What Claude Code is
 
@@ -32,197 +47,14 @@ who made it and when, so your commit history is the evidence that all of you
 worked on this. And nothing is lost: you can always see what a page looked like
 before someone changed it.
 
-The tool that records those changes is called **git**. You'll see Claude run
-git commands and you'll never type one yourself.
-
-## Open it
-
-1. Go to **[claude.ai/code](https://claude.ai/code)** and sign in with your Claude account
-2. Just above the message box there's a row with two buttons. Click the cloud
-   one that says **Default**, hover **Default** in the menu, click the gear,
-   set **Network access** to **Full**, and save. Do this before you send
-   anything, or Claude won't be able to read any web page
-3. In that same row, click **+ Select repo...** and choose
-   **LMU-GLP/2026-sdg-12**
-4. If it isn't in the list, you haven't accepted the GitHub invitation yet.
-   Open [github.com/notifications](https://github.com/notifications), accept
-   the invite, then reload Claude Code
-
-## 1. Start together
-
-One person drives. The whole team answers out loud. This runs once per team,
-because it decides your angle and builds the structure everyone else works
-inside.
-
-```
-We're the SDG 12 (Responsible Consumption and Production) team. Our challenge:
-"How might we help a household reduce waste and make smarter choices about
-what members buy, use, and throw away?" We can focus on Los Angeles, South
-Korea, or any other part of the world.
-
-Read this gist and set up this repo as an LLM wiki for that challenge:
-https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-But before you build anything, interview us for context. Ask one question at a
-time, give us multiple-choice options, and keep going until you know enough
-about our challenge, our candidate regions, and what we need to research.
-```
-
-**Then merge it right away** (step 4 below), before anyone splits up. Your
-teammates' sessions start from `main`, so until you merge, they'll open an
-empty repo and build a second, different wiki.
-
-## 2. Split up, one source each
-
-Everyone now runs their own session.
-
-If you opened this repo in Claude Code before the driver merged, your session
-is working from the old, empty copy. Run this first:
-
-```
-Pull the latest from main so I have the wiki the team just merged.
-```
-
-**Claim a different source from this list.** These five are the minimum. Cover
-them between you, then add as many more from any category as you have time for:
-
-- UN targets for your goal: `sdgs.un.org/goals/goal12`
-- One dataset (UN Stats, World Bank, or a local source)
-- A news story about the problem in your first region
-- A news story about the problem in your second region
-- One product or program already trying to solve this
-
-**Then run this prompt**, swapping `[your source]` and `[your region]` for the
-one you claimed:
-
-```
-Find a source on [your source] in [your region]. Create a markdown file in
-sources/ with the page title, the URL, today's date, the key facts and figures
-with short direct quotes, and a two-sentence summary. Don't edit index.md or
-the wiki pages yet.
-```
-
-Watch what Claude does while it works: it searches, opens a page, then writes a
-file. Those actions are where your citations come from.
-
-Write down the numbers that matter and quote them exactly. Don't copy whole
-articles into the repo. A judge wants the figure and the source, not the page.
-
-## 3. Save your work
-
-You never type git commands. Ask:
-
-```
-Commit our work with a note about what we did, and push it.
-```
-
-Claude saves to your own draft branch and shows you each command it ran.
-
-## 4. Merge, so your work counts
-
-Claude has been saving to a **draft branch**: your own private copy of the
-team's work. Nobody else can see it, and none of it counts yet.
-
-To publish it you open a **pull request**, usually shortened to **PR**. That's
-GitHub's word for a proposal. It says: here are my changes, should we add them
-to the team's real work? Somebody looks at it, then merges it. At a company a
-teammate reviews it first. Today your team is the reviewer.
-
-Two clicks, in two different places.
-
-**In Claude Code:** look just above the message box for the bar with your branch
-name and a green count like `+482 -0`. Click it to see everything Claude
-changed, then select **Create PR**.
-
-**Then on GitHub:** Claude gives you a link to the PR. Open it and press **Merge
-pull request**, then **Confirm merge**.
-
-Lost the link? Go to
-[your repo](https://github.com/LMU-GLP/2026-sdg-12) and click the **Pull
-requests** tab at the top. Yours will be in the list.
-
-There is no merge button inside Claude Code. Creating the PR only proposes the
-change. Merging is what puts it on `main`.
-
-You'll do this twice: once right after step 1, so your teammates start from the
-wiki instead of an empty repo, and again once everyone's sources are in.
-
-If GitHub says there's a conflict, that's normal when several people work at
-once. Ask:
-
-```
-Merge main into our branch and resolve the conflicts.
-```
-
-## 5. Finish together
-
-One person drives again, and everyone watches the pages connect to each other.
-
-```
-Ingest everything in sources/ and update the wiki.
-```
-
-## 6. Read what you built
-
-Merge again, then look at what's actually on `main`:
-
-**[github.com/LMU-GLP/2026-sdg-12](https://github.com/LMU-GLP/2026-sdg-12)**
-
-You should see the three layers from this morning: `sources/` holding the raw
-pages, `wiki/` holding what Claude wrote from them, and `CLAUDE.md` holding the
-rules. Click into `wiki/` and read the pages as a team.
-
-If you only see this README, your work is still sitting on a draft branch. Go
-back to step 4 and merge.
-
-This is the first time you see the whole thing instead of one answer at a
-time. It's also where you notice if your evidence is thinner than you thought.
-If a page makes a claim with no citation behind it, treat it as a placeholder.
-Never put it in your pitch.
-
-## 7. Decide, and write it down
-
-This is the hard question, and it's the same move as step 1. Claude asks, you
-decide.
-
-```
-Help me draft a problem statement from our wiki. Ask me one question at a time.
-```
-
-Answer out loud, as a team. The questions come from your own evidence, so this
-is where you find out which region you can actually defend and who your project
-is really for. Argue about it. That argument is the work.
-
-What you end up with is what you'll read to the room at the end of the session,
-and it's the first thing a judge will push on Monday.
-
-When you're happy with it:
-
-```
-Save it to wiki/problem-statement.md and commit.
-```
-
-Then read it out loud one more time. If any team member can't defend a sentence
-in it, that sentence needs a better source. Merge it.
-
-## 8. If you finish early
-
-```
-Find contradictions and gaps in our wiki, and tell us what we're missing.
-```
+The tool that records those changes is called **git**. You'll see Claude run git
+commands and you'll never type one yourself.
 
 ## How the team works
 
-Start together, split up, then finish together. The interview in step 1 and the
-synthesis in step 5 run once, with one driver. Everything in between happens in
-parallel: each of you gets your own draft branch, which is what lets four
-people work at the same time without overwriting each other.
+Start together, split up, then finish together. The decisions happen with
+everyone in the room. The searching and the building happen in parallel, each of
+you on your own draft branch, which is what lets four people work at the same
+time without overwriting each other.
 
 Merge the PRs one at a time when you regroup.
-
-## Before you leave
-
-- Your work is **merged to `main`** and you can see it on GitHub
-- `wiki/problem-statement.md` exists, with at least two citations
-- A region you picked on purpose and can defend out loud
-- No uncited claims in anything you plan to pitch
-
