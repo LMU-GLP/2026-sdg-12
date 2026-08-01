@@ -1,6 +1,6 @@
 # Existing Solutions in Southeast Asia
 
-Programs and businesses already working on fast-fashion and textile waste in the region, set against the one government system in this wiki that has actually scaled to solve a comparable household-waste problem.
+Programs and businesses already working on fast-fashion and textile waste in the region, set against the one government system in this wiki that has actually scaled to solve a comparable household-waste problem. For the international/policy layer above these — the UN's own coordinating body — see [International organizations' response](international-response.md).
 
 ## Southeast Asia's own responses
 
@@ -17,3 +17,7 @@ Korea's food-waste system is a *different waste stream* (food, not textiles) run
 - Notably, **Korea has no equivalent system for its own textile waste** — 800,000 tonnes/year, only 12% recycled locally, 80% handled by unregulated private exporters. [Source](../sources/korea-fast-fashion-boom.md) See [Developed-country consumption and export patterns](developed-country-drivers.md).
 
 The gap this leaves: every Southeast Asian program in this wiki is a civil-society or private initiative (an NGO, a startup, a rental company); none of them is the mandatory, government-run, fee-based system that Korea used to solve its food-waste problem. Indonesia's response to imported clothing, meanwhile, is enforcement (bans and destruction) rather than a collection-and-processing system like Kloth Cares or Korea's food-waste bins. See [Southeast Asia: where developed-country fashion waste lands](southeast-asia-impacts.md).
+
+## Where international bodies fit
+
+The UN Alliance for Sustainable Fashion, launched in 2019, sits above all of the programs listed here — but it coordinates policy and analysis, not collection or recycling on the ground. None of Kloth Cares', Style Theory's, or moreloop's work traces back to Alliance funding or action in the sources this wiki has. See [International organizations' response](international-response.md) for what the Alliance does and doesn't do.

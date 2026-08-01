@@ -8,7 +8,8 @@ clothes in developed countries.**
 Start with [the scale of the problem](global-fast-fashion-footprint.md), then
 [what developed countries consume and export](developed-country-drivers.md),
 then the core page — [what lands in Southeast Asia](southeast-asia-impacts.md)
-— then [existing solutions](existing-solutions.md) and the
+— then [existing solutions](existing-solutions.md),
+[the international response](international-response.md), and the
 [behavior lessons](household-behavior-lessons.md) they point to.
 
 ## Problem scope
@@ -35,11 +36,12 @@ then the core page — [what lands in Southeast Asia](southeast-asia-impacts.md)
 | Page | One-line summary |
 |---|---|
 | [Existing solutions](existing-solutions.md) | Kloth Cares, Style Theory, and moreloop are working the problem in Malaysia, Singapore, and Thailand, all at a fraction of the scale of Korea's fully government-run food-waste system. |
+| [International organizations' response](international-response.md) | The UN Alliance for Sustainable Fashion, launched 2019 by eight UN agencies, coordinates policy and analysis on fashion sustainability — it doesn't fund or run collection/recycling programs on the ground. |
 | [Household behavior lessons](household-behavior-lessons.md) | Korea's metered food-waste bins worked; California's food-waste law hasn't, because it never changed household behavior. Nothing like Korea's system exists yet for textiles anywhere in this wiki. |
 
 ## Source list
 
-All eleven source files are in [`sources/`](../sources/):
+All twelve source files are in [`sources/`](../sources/):
 
 - [UN SDG 12 targets](../sources/un-sdg12-targets.md)
 - [Global fast-fashion footprint](../sources/global-fast-fashion-footprint.md)
@@ -47,10 +49,11 @@ All eleven source files are in [`sources/`](../sources/):
 - [Korea's food waste system](../sources/korea-food-waste-system.md)
 - [California SB 1383 (organic waste)](../sources/la-sb1383-organic-waste.md)
 - [California SB 707 (textile recovery)](../sources/la-sb707-textile-recovery.md)
-- [EU used textile exports](../sources/eu-used-textile-exports.md) — *new this session*
-- [Global secondhand clothing trade data (UN Comtrade)](../sources/global-secondhand-clothing-trade-data.md) — *new this session*
+- [EU used textile exports](../sources/eu-used-textile-exports.md)
+- [Global secondhand clothing trade data (UN Comtrade)](../sources/global-secondhand-clothing-trade-data.md)
 - [Indonesia's secondhand clothing crackdown](../sources/indonesia-secondhand-clothing-crackdown.md)
-- [Cambodia: fast-fashion waste burning](../sources/cambodia-fast-fashion-waste-burning.md) — *new this session*
+- [Cambodia: fast-fashion waste burning](../sources/cambodia-fast-fashion-waste-burning.md)
 - [Kloth Cares / Southeast Asia circular fashion](../sources/sea-kloth-cares-circular-fashion.md)
+- [UN Alliance for Sustainable Fashion](../sources/un-alliance-sustainable-fashion.md) — *new this ingest*
 
 See [log.md](log.md) for when each page and source was added.

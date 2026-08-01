@@ -16,4 +16,6 @@ The official framework for Goal 12 (Responsible Consumption and Production) has 
 
 There is **no textile- or fashion-specific target under Goal 12**. Any number this team uses to argue "fast fashion violates SDG 12 target X.X" is borrowed language, not a UN figure — the UN measures food waste (12.3) and general waste/material use (12.5, 12.2), not clothing specifically. [Source](../sources/un-sdg12-targets.md)
 
-See also: [Global fast-fashion footprint](global-fast-fashion-footprint.md), [Southeast Asia: where developed-country fashion waste lands](southeast-asia-impacts.md).
+The UN itself has a body that exists specifically to fill this gap — see [International organizations' response](international-response.md) for the UN Alliance for Sustainable Fashion, launched in 2019 to coordinate UN action on fashion even though no Goal 12 target names it.
+
+See also: [Global fast-fashion footprint](global-fast-fashion-footprint.md), [Southeast Asia: where developed-country fashion waste lands](southeast-asia-impacts.md), [International organizations' response](international-response.md).
