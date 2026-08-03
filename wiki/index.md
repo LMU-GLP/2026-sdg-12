@@ -18,6 +18,7 @@ read the three region pages, then the comparison.
 | [Regional comparison: LA, South Korea, Southeast Asia](regional-comparison.md) | Required comparison page — the three regions aren't measured the same way, but in all three, private/civil-society actors are doing more diversion work than government regulation is, right now. |
 | [Existing solutions](existing-solutions.md) | A table of every program or business in this wiki actually working on fast-fashion waste, and how each one's evidence stacks up against Korea's proven food-waste model. |
 | [Household behavior lessons](household-behavior-lessons.md) | What worked for Korea's food waste (a fee households could see) and what failed for California's (infrastructure without a behavior change), applied to what's missing in fast fashion. |
+| [Reloop: solution concept](concept.md) | The team's own proposed solution — a US-national clothing take-back/upcycling site — worked out via interview, with the tensions it creates against the problem statement (Korea dropped from scope, advertising on SHEIN, in-house manufacturing) named explicitly. |
 
 ## Source list
 
